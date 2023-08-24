@@ -1,0 +1,101 @@
+[
+    {
+        "id": 4,
+        "titulo": "Homem de Ferro",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D9578A3A8728595585FA5BCEAD20CDE3334AC8F3B669DF24C2653C2E944F18C6/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/tAcDOFX0WludQhvTdmG2rDxyQRM.jpg",
+        "nota": 7.9,
+	    "detalhes": [
+            {
+                "sinopse":"Tony Stark é um industrial bilionário, que também é um brilhante inventor. Ao ser sequestrado ele é obrigado por terroristas a construir uma arma devastadora mas, ao invés disto, constrói uma armadura de alta tecnologia que permite que fuja de seu cativeiro. A partir de então ele passa a usá-la para combater o crime, sob o alter ego do Homem de Ferro.",
+                "duracao": "2h 7min",
+                "data":"2008",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"A12",
+                "direcao":"Jon Favreau",
+                "roteiro": "Art Marcum, Matt Holloway, Mark Fergus, Hawk Ostby",
+                "elenco":"Robert Downey Jr., Terrence Howard, Jeff Bridges, Gwyneth Paltrow, Leslie Bibb, Shaun Toub"
+            }
+        ]
+    },
+
+    {
+        "id": 5,
+        "titulo": "Homem de Ferro 2",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0C9EAF9BCFB86314C5D8A94C4B71AB80A85BBC08A615000867A351D425964BA5/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/vzROjQbgKWMVf2EldXipCcjpuBL.jpg",
+        "nota": 6.9,
+	    "detalhes": [
+            {
+                "sinopse":"Em um mundo ciente da existência do Homem de Ferro, o inventor bilionário Tony Stark sofre pressão de todos os lados para compartilhar sua tecnologia com as forças armadas. Ele resiste para divulgar os segredos de sua inigualável armadura, com medo de que estas informações caiam nas mãos erradas.",
+                "duracao": "2h 5min",
+                "data":"2010",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"A12",
+                "direcao":"Jon Favreau",
+                "roteiro": "Justin Theroux",
+                "elenco":"Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Scarlett Johansson, Sam Rockwell, Clark Gregg"
+            }
+        ]
+    },
+
+    {
+        "id": 7,
+        "titulo": "Thor",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2A2591728259E4ED2877AE45E1688CE38B0F46BDE9A2DA61B8C7C1B2B73DF478/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
+        "nota": 7.0,
+	    "detalhes": [
+            {
+                "sinopse":"Como filho de Odin, rei dos deuses nórdicos, Thor logo herdará o trono de Asgard de seu idoso pai. Porém, no dia de sua coroação, Thor reage com brutalidade quando os inimigos dos deuses entram no palácio violando o tratado. Como punição, Odin manda Thor para a Terra. Enquanto seu irmão Loki conspira em Asgard, Thor, agora sem seus poderes, enfrenta sua maior ameaça.",
+                "duracao": "1h 57min",
+                "data":"2011",
+                "genero":"Fantasia, Super-Heróis, Ação e Aventura",
+                "classificacao":"10",
+                "direcao":"Kenneth Branagh",
+                "roteiro": "Zack Stentz,Ashley Edward Miller, Don Payne s",
+                "elenco":"Chris Hemsworth, Natalie Portman, Tom Hiddleston, Stellan Skarsgard, Kat Dennings, Clark Gregg"
+            }
+        ]
+    },
+
+    {
+        "id": 1,
+        "titulo": "Capitão América: O Primeiro Vingador",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CE5EDEFD571A39CA8298F6E2F52B4271FEFFC431D0CDEBFDABEF6BA2B633E465/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/f976JQnjMhCTa1yLXz7UH1pV4DG.jpg",
+        "nota": 6.9,
+        "detalhes": [
+            {
+                "sinopse":"Durante a Segunda Guerra Mundial, Steve Rogers é um homem doente, do Brooklyn, que se transforma no super soldado Capitão América para ajudar nos esforços de guerra. Rogers deve parar o Caveira Vermelha, o implacável chefe de armas de Adolf Hitler e líder de uma organização que pretende usar um misterioso mecanismo de incalculáveis poderes para dominar o mundo.",
+                "duracao": "2h 6min",
+                "data":"2011",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Joe Johnston",
+                "roteiro": "Christopher Markus, Stephen McFeely",
+                "elenco":"Chris Evans, Tommy Lee Jones, Hugo Weaving, Hayley Atwell, Sebastian Stan, Dominic Cooper"
+            }
+        ]
+    },
+
+    {
+        "id": 9,
+        "titulo": "The Avengers: Os Vingadores",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/19970C28F3D026E1308B506A74374079401148EAE16CE52A2A99D12CE4D40589/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg",
+        "nota": 8.0,
+	    "detalhes": [
+            {
+                "sinopse":"Loki, o irmão de Thor, ganha acesso ao poder ilimitado do cubo cósmico ao roubá-lo de dentro das instalações da S.H.I.E.L.D. Nick Fury, o diretor desta agência internacional que mantém a paz, logo reúne os únicos super-heróis que serão capazes de defender a Terra de ameaças sem precedentes. Homem de Ferro, Capitão América, Hulk, Thor, Viúva Negra e Gavião Arqueiro formam o time dos sonhos de Fury, mas eles precisam aprender a colocar os egos de lado e agir como um grupo em prol da humanidade.",
+                "duracao": "2h 25min",
+                "data":"2012",
+                "genero":"Ficção Científica, Fantasia, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Joss Whedon",
+                "roteiro": "Joss Whedon, Jack Kirby",
+                "elenco":"Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner"
+            }
+        ]
+    }
+]

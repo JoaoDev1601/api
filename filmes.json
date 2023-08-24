@@ -1,0 +1,801 @@
+[
+    {
+        "id": 4,
+        "titulo": "Homem de Ferro",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D9578A3A8728595585FA5BCEAD20CDE3334AC8F3B669DF24C2653C2E944F18C6/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/tAcDOFX0WludQhvTdmG2rDxyQRM.jpg",
+        "filme": "Jpjk8XDXpczyFERjG7BHt5",
+        "nota": 7.9,
+	    "detalhes": [
+            {
+                "sinopse":"Tony Stark é um industrial bilionário, que também é um brilhante inventor. Ao ser sequestrado ele é obrigado por terroristas a construir uma arma devastadora mas, ao invés disto, constrói uma armadura de alta tecnologia que permite que fuja de seu cativeiro. A partir de então ele passa a usá-la para combater o crime, sob o alter ego do Homem de Ferro.",
+                "duracao": "2h 7min",
+                "data":"2008",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"A12",
+                "direcao":"Jon Favreau",
+                "roteiro": "Art Marcum, Matt Holloway, Mark Fergus, Hawk Ostby",
+                "elenco":"Robert Downey Jr., Terrence Howard, Jeff Bridges, Gwyneth Paltrow, Leslie Bibb, Shaun Toub"
+            }
+        ]
+    },
+
+    {
+        "id": 5,
+        "titulo": "Homem de Ferro 2",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0C9EAF9BCFB86314C5D8A94C4B71AB80A85BBC08A615000867A351D425964BA5/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/vzROjQbgKWMVf2EldXipCcjpuBL.jpg",
+        "filme": "WFcwgV5zPeqvHUa4QbGzS8",
+        "nota": 6.9,
+	    "detalhes": [
+            {
+                "sinopse":"Em um mundo ciente da existência do Homem de Ferro, o inventor bilionário Tony Stark sofre pressão de todos os lados para compartilhar sua tecnologia com as forças armadas. Ele resiste para divulgar os segredos de sua inigualável armadura, com medo de que estas informações caiam nas mãos erradas.",
+                "duracao": "2h 5min",
+                "data":"2010",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"A12",
+                "direcao":"Jon Favreau",
+                "roteiro": "Justin Theroux",
+                "elenco":"Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Scarlett Johansson, Sam Rockwell, Clark Gregg"
+            }
+        ]
+    },
+
+    {
+        "id": 1,
+        "titulo": "Capitão América: O Primeiro Vingador",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CE5EDEFD571A39CA8298F6E2F52B4271FEFFC431D0CDEBFDABEF6BA2B633E465/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/f976JQnjMhCTa1yLXz7UH1pV4DG.jpg",
+        "nota": 6.9,
+        "filme": "9nQn91iBn4DqJmEsmYMYYy",
+        "detalhes": [
+            {
+                "sinopse":"Durante a Segunda Guerra Mundial, Steve Rogers é um homem doente, do Brooklyn, que se transforma no super soldado Capitão América para ajudar nos esforços de guerra. Rogers deve parar o Caveira Vermelha, o implacável chefe de armas de Adolf Hitler e líder de uma organização que pretende usar um misterioso mecanismo de incalculáveis poderes para dominar o mundo.",
+                "duracao": "2h 6min",
+                "data":"2011",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Joe Johnston",
+                "roteiro": "Christopher Markus, Stephen McFeely",
+                "elenco":"Chris Evans, Tommy Lee Jones, Hugo Weaving, Hayley Atwell, Sebastian Stan, Dominic Cooper"
+            }
+        ]
+    },
+
+    {
+        "id": 7,
+        "titulo": "Thor",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2A2591728259E4ED2877AE45E1688CE38B0F46BDE9A2DA61B8C7C1B2B73DF478/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
+        "nota": 7.0,
+        "filme": "7PEuYpGP16rE7CP62X6vE3",
+	    "detalhes": [
+            {
+                "sinopse":"Como filho de Odin, rei dos deuses nórdicos, Thor logo herdará o trono de Asgard de seu idoso pai. Porém, no dia de sua coroação, Thor reage com brutalidade quando os inimigos dos deuses entram no palácio violando o tratado. Como punição, Odin manda Thor para a Terra. Enquanto seu irmão Loki conspira em Asgard, Thor, agora sem seus poderes, enfrenta sua maior ameaça.",
+                "duracao": "1h 57min",
+                "data":"2011",
+                "genero":"Fantasia, Super-Heróis, Ação e Aventura",
+                "classificacao":"10",
+                "direcao":"Kenneth Branagh",
+                "roteiro": "Zack Stentz,Ashley Edward Miller, Don Payne s",
+                "elenco":"Chris Hemsworth, Natalie Portman, Tom Hiddleston, Stellan Skarsgard, Kat Dennings, Clark Gregg"
+            }
+        ]
+    },
+
+    {
+        "id": 9,
+        "titulo": "The Avengers: Os Vingadores",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/19970C28F3D026E1308B506A74374079401148EAE16CE52A2A99D12CE4D40589/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/u49fzmIJHkb1H4oGFTXtBGgaUS1.jpg",
+        "nota": 8.0,
+        "filme": "LnbBgjLqXmxvHzT4z6nmJD",
+	    "detalhes": [
+            {
+                "sinopse":"Loki, o irmão de Thor, ganha acesso ao poder ilimitado do cubo cósmico ao roubá-lo de dentro das instalações da S.H.I.E.L.D. Nick Fury, o diretor desta agência internacional que mantém a paz, logo reúne os únicos super-heróis que serão capazes de defender a Terra de ameaças sem precedentes. Homem de Ferro, Capitão América, Hulk, Thor, Viúva Negra e Gavião Arqueiro formam o time dos sonhos de Fury, mas eles precisam aprender a colocar os egos de lado e agir como um grupo em prol da humanidade.",
+                "duracao": "2h 25min",
+                "data":"2012",
+                "genero":"Ficção Científica, Fantasia, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Joss Whedon",
+                "roteiro": "Joss Whedon, Jack Kirby",
+                "elenco":"Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner"
+            }
+        ]
+    },
+
+    {
+        "id": 11,
+        "titulo": "Thor: O Mundo Sombrio",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7374E18E73A60F81C71F30B01B1679C46956A7302DB98E3DEDD6EB9D92C569D4/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/oip30thvJBpJRveA13Rtd2am5Qg.jpg",
+        "nota": 6.8,
+        "filme": "vt8Az3Jy8gvc7Y2tYojdaH",
+	    "detalhes": [
+            {
+                "sinopse":"Thor precisa contar com a ajuda de seus companheiros e até de seu traiçoeiro irmão Loki em um plano audacioso para salvar o universo. Entretanto, os caminhos de Thor se cruzam com Jane Foster e, dessa vez, a vida dela está realmente em perigo.",
+                "duracao": "1h 55min",
+                "data":"2013",
+                "genero":"Ficção Científica, Fantasia, Super-Heróis, Ação e Aventura",
+                "classificacao":"10",
+                "direcao":"Alan Taylor",
+                "roteiro": "Stephen McFeely, Christopher L. Yost, Christopher Markus",
+                "elenco":"Chris Hemsworth, Natalie Portman, Tom Hiddleston, Stellan Skarsgard, Idris Elba, Christopher Eccleston"
+            }
+        ]
+    },
+
+    {
+        "id": 12,
+        "titulo": "Homem de Ferro 3",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7D3716137CBA37CB0BBF9589FFB802B15CD373610ED199391A6611461922D2C2/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/C7MZwRTjvEy7gkWcLJeBGZFE1w.jpg",
+        "nota": 7.1,
+        "filme": "Q73ebB8PKnVS89CczMmyb5",
+	    "detalhes": [
+            {
+                "sinopse":"Depois de um inimigo reduzir o mundo de Tony Stark a destroços, o Homem de Ferro precisa aprender a confiar em seus instintos para proteger aqueles que ama, especialmente sua namorada, e lutar contra seu maior medo: o fracasso.",
+                "duracao": "2h 12min",
+                "trailer": "https://www.youtube.com/embed/YxJrGdJk_qI",
+                "data":"2013",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"A12",
+                "direcao":"Shane Black",
+                "roteiro": "Drew Pearce",
+                "elenco":"Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Guy Pearce, Rebecca Hall, Stephanie Szostak"
+            }
+        ]
+    },
+
+    {
+        "id": 14,
+        "titulo": "Capitão América: Soldado Invernal",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4382CA203C280C1ACC82AB91EEFAAC94885AEC7405D97E59676B6C862A68F179/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/nGA8dCXXVPPRaEjcbEyweUhHCAY.jpg",
+        "nota": 7.8,
+        "filme": "Yr9Kvp1yNY9TWNLhtFRcNb",
+	    "detalhes": [
+            {
+                "sinopse":"Após os eventos catastróficos em Nova York com Os Vingadores, Steve Rogers, segue tentando se ajustar ao mundo moderno. Porém, quando um colega da agência S.H.I.E.L.D. é atacado, Steve se vê preso em uma rede de intrigas que ameaça colocar o mundo em risco. Em parceria com a Viúva Negra e Falcão, seu novo aliado, o Capitão América tem que enfrentar um misterioso e inesperado inimigo, o Soldado Invernal.",
+                "duracao": "2h 18min",
+                "data":"2014",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Anthony Russo, Joe Russo",
+                "roteiro": "Anthony Russo, Stephen McFeely, Christopher Markus",
+                "elenco":"Chris Evans, Scarlett Johansson, Sebastian Stan, Anthony Mackie, Cobie Smulders, Frank Grilo"
+            }
+        ]
+    },
+
+    {
+        "id": 15,
+        "titulo": "Guardiões da Galáxia vol.1",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B48AD12C6A7A355A193D667F76B688662A9F9B07DDBADCA0ED775224B82E9B60/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/sUGYYLTtE4k5T1DBki033J6qAwY.jpg",
+        "nota": 8.0,
+        "filme": "NuLYYtQ9musdft3QMXRcjo",
+	    "detalhes": [
+            {
+                "sinopse":"Abduzido da Terra quando ainda era criança, Peter Quill fez carreira como saqueador e se auto denominou 'Senhor das Estrelas'. Quando rouba uma esfera, na qual o poderoso vilão Ronan, da raça kree, está interessado, passa a ser procurado por vários caçadores de recompensas. Para escapar do perigo, Quill une forças com quatro personagens fora do sistema: Groot, uma árvore humanóide (Vin Diesel), a sombria e perigosa Gamora, o guaxinim rápido no gatilho Rocket Racoon e o vingativo Drax, o Destruidor. A esfera roubada é capaz de mudar o destino de todo o universo.",
+                "duracao": "2h 2min",
+                "data":"2014",
+                "genero":"Ficção Científica, Comédia, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"James Gunn",
+                "roteiro": "James Gunn, Nicole Perlman",
+                "elenco":"Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel, Bradley Cooper, Lee Pace"
+            }
+        ]
+    },
+
+    {
+        "id": 22,
+        "titulo": "Vingadores: Era de Ultron",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B1B0B37582BE3E4522F2D612B345FBB74C6CCD6BC77A7BA7D76D1E06EBEEEFFD/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/vGIIl89vglo66yUfbuTxzNAs4y5.jpg",
+        "nota": 7.3,
+        "filme": "idpuj5Z6fSeHgvBog3ftuz",
+	    "detalhes": [
+            {
+                "sinopse":"Ao tentar proteger o planeta de ameaças, Tony Stark constrói um sistema de inteligência artificial que cuidaria da paz mundial. O projeto acaba dando errado e gera o nascimento do Ultron. Com o destino da Terra em jogo, os Vingadores terão que se unir para mais uma vez salvar a raça humana da extinção.",
+                "duracao": "2h 24min",
+                "data":"2015",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Joss Whedon",
+                "roteiro": "Joss Whedon",
+                "elenco":"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson, Jeremy Renner"
+            }
+        ]
+    },
+
+    {
+        "id": 23,
+        "titulo": "Homem-Formiga",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7CD205AABF5D36ECD0E50406C42D072539E5814B3F6251C52BD1388322D6D138/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/yiLqv1gwBENjbqTAdPxW4LhX6aA.jpg",
+        "nota": 7.3,
+        "filme": "EsRecJQbBuy27hX2B3B73S",
+	    "detalhes": [
+            {
+                "sinopse":"Dr. Hank Pym (Michael Douglas), o inventor da fórmula/ traje que permite o encolhimento, anos depois da descoberta, precisa impedir que seu ex-pupilo Darren Cross (Corey Stoll), consiga replicar o feito e vender a tecnologia para uma organização do mal. Depois de sair da cadeia, o trambiqueiro Scott Lang (Paul Rudd) está disposto a reconquistar o respeito da ex-mulher, Maggie (Judy Greer) e, principalmente, da filha. Com dificuldades de arrumar um emprego honesto, ele aceita praticar um último golpe. O que ele não sabia era que tudo não passava de um plano do Dr. Pym que, depois de anos observando o hábil ladrão, o escolhe para vestir o traje do Homem-Formiga.",
+                "duracao": "2h",
+                "data":"2015",
+                "genero":"Ficção Científica, Comédia, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Peyton Reed",
+                "roteiro": "Edgar Wright, Joe Cornish, Paul Rudd, Adam McKay",
+                "elenco":"Paul Rudd, Evangeline Lilly, Corey Stoll, Bobby Cannavale, Michael Peña, Tip T.I. Harris"
+            }
+        ]
+    },
+
+    {
+        "id": 24,
+        "titulo": "Capitão América: Guerra Civil",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/66DA9C0D30738580E44B500C5AA8BA3A974A7C56ABC79BBDA9F7DB47F381EA5F/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/8IoDJYGMoo4nEkjGADW2TtZRoWF.jpg",
+        "nota": 7.8,
+        "filme": "QpZ8VUh8Aok2BVUbiC9oRk",
+	    "detalhes": [
+            {
+                "sinopse":"Depois do ataque de Ultron, os políticos decidem controlar os Vingadores, já que suas ações afetam toda a humanidade. A decisão coloca o Capitão América em rota de colisão com o Homem de Ferro.",
+                "duracao": "2h 31min",
+                "data":"2016",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Anthony Russo, Joe Russo",
+                "roteiro": "Christopher Markus, Stephen McFeely",
+                "elenco":"Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan, Anthony Mackie, Don Cheadle"
+            }
+        ]
+    },
+
+    {
+        "id": 27,
+        "titulo": "Doutor Estranho",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7E3497EF31E855B06D80F0E0C16C3C496A9F0C97B43C150E787F14BFF00E241D/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/iM1hlVGZ5Qwn3gO6ewTszY7OrLY.jpg",
+        "nota": 7.5,
+        "filme": "qL7DnSgtESEpaMGixnjsGm",
+	    "detalhes": [
+            {
+                "sinopse":"Após sua carreira ser destruída, um brilhante, porém arrogante, cirurgião ganha uma nova chance em sua vida quando um feiticeiro o treina para se tornar o Mago Supremo.",
+                "duracao": "1h 56min",
+                "data":"2016",
+                "genero":"Fantasia, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Scott Derrickson",
+                "roteiro": "Scott Derrickson, Jon Spaihts, C. Robert Cargill",
+                "elenco":"Benedict Cumberbatch, Chiwetel Ejifor, Rachel McAdams, Benedict Wong, Michael Stuhlbarg, Benjamin Bratt"
+            }
+        ]
+    },
+
+    {
+        "id": 48,
+        "titulo": "Homem-Aranha: De Volta ao Lar",
+        "bg": "https://www.themoviedb.org/t/p/original/tPpYGm2mVecue7Bk3gNVoSPA5qn.jpg",
+        "poster": "https://www.themoviedb.org/t/p/original/9Fgs1ewIZiBBTto1XDHeBN0D8ug.jpg",
+        "nota": 7.4,
+        "filme": "FddpYFiKY7BQXPcjqDKoPm",
+	    "detalhes": [
+            {
+                "sinopse":"Depois de atuar ao lado dos Vingadores, chegou a hora do pequeno Peter Parker (Tom Holland) voltar para casa e para a sua vida, já não mais tão normal. Lutando diariamente contra pequenos crimes nas redondezas, ele pensa ter encontrado a missão de sua vida quando o terrível vilão Abutre (Michael Keaton) surge amedrontando a cidade. O problema é que a tarefa não será tão fácil como ele imaginava.",
+                "duracao": "2h 13min",
+                "data":"2017",
+                "genero":"Super-Heróis, Ação e Aventura, Ficção Científica, Drama",
+                "classificacao":"12",
+                "direcao":"Jon Watts",
+                "roteiro": "Jon Watts, John Francis Daley, Christopher Ford, Jonathan Goldstein, Chris McKenna, Erik Sommers",
+                "elenco":"Tom Holland, Michael Keaton, Robert Downey Jr., Marissa Tomei, Zendaya, Jacob Batalon"
+            }
+        ]
+    },
+
+    {
+        "id": 17,
+        "titulo": "Guardiões da Galáxia vol.2",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2593638EC184A73B3B0F1B0C8DB20568C9FC2099F53B935BDFB7FA4C493A040D/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/jGtBLu0JAKf5JxhWgmF68HROzCA.jpg",
+        "nota": 7.6,
+        "filme": "dcxMQ2UkFmvMU1FsEAYgqn",
+	    "detalhes": [
+            {
+                "sinopse":"Os Guardiões precisam lutar para manter sua recém descoberta família unida, enquanto descobrem os mistérios sobre o verdadeiro pai de Peter Quill.",
+                "duracao": "2h 17min",
+                "data":"2017",
+                "genero":"Ficção Científica, Comédia, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"James Gunn",
+                "roteiro": "James Gunn",
+                "elenco":"Chris Pratt, Bradley Cooper, Vin Diesel, Pom Klementieff, Zoe Saldana, Dave Bautista"
+            }
+        ]
+    },
+
+    {
+        "id": 28,
+        "titulo": "Thor: Ragnarok",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/08EA29C77444E23564D4D420173B4F322843E4923B9014D21A6B381A49847A6B/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/jrF3WW4lJkIFtIY3nIyapZ7q0N8.jpg",
+        "nota": 7.9,
+        "filme": "wr33JT3nS8jG4yMYFWHHq9",
+	    "detalhes": [
+            {
+                "sinopse":"Thor está preso do outro lado do universo. Ele precisa correr contra o tempo para voltar a Asgard e parar Ragnarok, a destruição de seu mundo, que está nas mãos da poderosa e implacável vilã Hela.",
+                "duracao": "2h 12min",
+                "data":"2017",
+                "genero":"Ficção Científica, Comédia, Fantasia, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Taika Waititi",
+                "roteiro": "Craig Kyle, Christopher L. Yost, Eric Pearson",
+                "elenco":"Chris Hemsworth, Tom Hiddleston, Cate Blanchett, Idris Elba, Jeff Goldblum, Tessa Thompson"
+            }
+        ]
+    },
+
+    {
+        "id": 26,
+        "titulo": "Pantera Negra",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E8F8C716B67A17CF1BA39C7182603DC1D63834C024064A2699F8E0AB84EBF045/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/9D40jv8pi9uKnrVDPiN3JYYad72.jpg",
+        "nota": 7.3,
+        "filme": "TrWqTRdQ5yMQdvKVTaiSTz",
+	    "detalhes": [
+            {
+                "sinopse":"O príncipe T'Challa retorna a Wakanda para ser coroado rei. Assumindo o manto de Pantera Negra, ele vai à caça de um vilão que roubou um precioso metal de seu país.",
+                "duracao": "2h 18min",
+                "data":"2018",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"14",
+                "direcao":"Ryan Coogler",
+                "roteiro": "Ryan Coogler, Joe Robert Cole",
+                "elenco":"Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira, Martin Freeman, Daniel Kaluuya"
+            }
+        ]
+    },
+
+    {
+        "id": 29,
+        "titulo": "Homem-Formiga e a Vespa ",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/AD942970E0F92A544B11ED592E818E841E2824F7F53B19DA76D5E2611BFD7CBF/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/smRrzh8W4PfIYiqAEqc6U1D6Ekl.jpg",
+        "nota": 7.0,
+        "filme": "X9sSJWpRtTWoryyaxD7QKo",
+	    "detalhes": [
+            {
+                "sinopse":"Scott Lang lida com as consequências de suas escolhas tanto como super-herói quanto como pai. Enquanto tenta reequilibrar sua vida com suas responsabilidades como o Homem-Formiga, ele é confrontado por Hope van Dyne e Dr. Hank Pym com uma nova missão urgente. Scott deve mais uma vez vestir o uniforme e aprender a lutar ao lado da Vespa, trabalhando em conjunto para descobrir segredos do passado.",
+                "duracao": "2h 2min",
+                "data":"2018",
+                "genero":"Ficção Científica, Comédia, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Peyton Reed",
+                "roteiro": "Erik Sommers, Gabriel Ferrari, Andrew Barrer, Paul Rudd, Chris McKenna",
+                "elenco":"Paul Rudd, Evangeline Lilly, Michael Peña, Walton Groggins, Hannah John-Kamen, David Dastmalchian"
+            }
+        ]
+    },
+
+    {
+        "id": 30,
+        "titulo": "Vingadores: Guerra Infinita",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0AF77CD601F3978DB5567DB4BE0913A787632F4E46C2D6F98A81F4354947B412/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/rkHe0BfOo1f5N2q6rxgdYac7Zf6.jpg",
+        "nota": 8.4,
+        "filme": "88fANqJ1dBtcZedfkFEJVi",
+	    "detalhes": [
+            {
+                "sinopse":"Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade.",
+                "duracao": "2h 34min",
+                "data":"2018",
+                "genero":"Ficção Científica, Fantasia, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Anthony Russo, Joe Russo",
+                "roteiro": "Stephen McFeely, Christopher Markus",
+                "elenco":"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson, Don Cheadle"
+            }
+        ]
+    },
+
+    {
+        "id": 3,
+        "titulo": "Capitã Marvel",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/540841BE06C4EC8CCF75955077623A3ADC44196991C505E922B9B89FF0FC4A8E/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/hVgLHgnsO46oSHJy5I4ekhqtoYv.jpg",
+        "nota": 6.8,
+        "filme": "maF7kZpLLYZepoLysm7yWc",
+	    "detalhes": [
+            {
+                "sinopse":"Capitã Marvel, parte do exército de elite dos Kree, uma raça alienígena, encontra-se no meio de uma batalha entre seu povo e os Skrulls. Ao tentar impedir uma invasão de larga escala na Terra, em 1995, ela tem memórias recorrentes de uma outra vida, como Carol Danvers, agente da Força Aérea norte-americana. Com a ajuda de Nick Fury, Capitã Marvel precisa descobrir os segredos de seu passado e pôr um fim ao conflito intergalático com os Skrulls.",
+                "duracao": "2h 7min",
+                "data":"2019",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"A12",
+                "direcao":"Anna Boden, Ryan Fleck",
+                "roteiro": "Ryan Fleck, Anna Boden, Geneva Robertson-Dworet",
+                "elenco":"Brie Larson, Samuel L.Jackson, Ben Mendelsohn, Djimon Hounsou, Lee Pace, Lashana Lynch"
+            }
+        ]
+    },
+
+    {
+        "id": 31,
+        "titulo": "Vingadores: Ultimato",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8831417F49279BB679AF00AF755790BE81E27D394879CF2CCBAFC8CAD01522E8/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg",
+        "nota": 8.4,
+        "filme": "YrXpTRk22MsHkrgaXHjg3U",
+	    "detalhes": [
+            {
+                "sinopse":"Após os eventos devastadores de 'Vingadores: Guerra Infinita', o universo está em ruínas devido aos esforços do Titã Louco, Thanos. Com a ajuda de aliados remanescentes, os Vingadores devem se reunir mais uma vez a fim de desfazer as ações de Thanos e restaurar a ordem no universo de uma vez por todas, não importando as consequências.",
+                "duracao": "3h 5min",
+                "data":"2019",
+                "genero":"Ficção Científica, Fantasia, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Anthony Russo, Joe Russo",
+                "roteiro": "Stephen McFeely, Christopher Markus",
+                "elenco":"Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner"
+            }
+        ]
+    },
+
+    {
+        "id": 49,
+        "titulo": "Homem-Aranha: Longe de Casa",
+        "bg": "https://www.themoviedb.org/t/p/original/q8HcItKnJYBQa2XrB4Ug6Q8BeNe.jpg",
+        "poster": "https://www.themoviedb.org/t/p/original/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg",
+        "nota": 7.4,
+        "filme": "",
+	    "detalhes": [
+            {
+                "sinopse":"Peter Parker está em uma viagem de duas semanas pela Europa, ao lado de seus amigos de colégio, quando é surpreendido pela visita de Nick Fury. Convocado para mais uma missão heroica, ele precisa enfrentar vários vilões que surgem em cidades-símbolo do continente, como Londres, Paris e Veneza, e também a aparição do enigmático Mysterio.",
+                "duracao": "2h 10min",
+                "data":"2019",
+                "genero":"Super-Heróis, Ação e Aventura, Ficção Científica",
+                "classificacao":"10",
+                "direcao":"Jon Watts",
+                "roteiro": "Erik Sommers, Chris Mckenna",
+                "elenco":"Tom Holland, Samuel L. Jackson, Jake Gyllenhall, Marissa Tomei, Jon Favreau, Zendaya, Jacob Batalon"
+            }
+        ]
+    },
+
+    {
+        "id": 50,
+        "titulo": "Homem-Aranha: Sem Volta para Casa",
+        "bg": "https://www.themoviedb.org/t/p/original/zD5v1E4joAzFvmAEytt7fM3ivyT.jpg",
+        "poster": "https://www.themoviedb.org/t/p/original/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg",
+        "nota": 8.2,
+        "filme": "hjTPEqfAvsuaYCUF7FcaRL",
+	    "detalhes": [
+            {
+                "sinopse":"Peter Parker é desmascarado e não consegue mais separar sua vida normal dos grandes riscos de ser um super-herói. Quando ele pede ajuda ao Doutor Estranho, os riscos se tornam ainda mais perigosos, e o forçam a descobrir o que realmente significa ser o Homem-Aranha...",
+                "duracao": "2h 29min",
+                "data":"2021",
+                "genero":"Super-Heróis, Ação e Aventura, Ficção Científica",
+                "classificacao":"12",
+                "direcao":"Jon Watts",
+                "roteiro": "Erik Sommers, Chris Mckenna",
+                "elenco":"Tom Holland, Zendaya, Jacob Batalon, Benedict Cumberbatch, Marissa Tomei, Jon Favreau, Tobey Maguire, Andrew Garfield"
+            }
+        ]
+    },
+
+    {
+        "id": 25,
+        "titulo": "Viúva Negra",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B87C7382127C700F0C5BBFBB082242D7D1E31C3E77581FE4B3165A9776224E5E/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/rKq1Vlw0Bqe2EEvdmIkkkgPQAGf.jpg",
+        "nota": 6.7,
+        "filme": "GmM3zg88o2jKpcNriDnjCJ",
+	    "detalhes": [
+            {
+                "sinopse":"Natasha Romanoff, também conhecida como Viúva Negra, confronta o lado mais sombrio de sua história quando surge uma perigosa conspiração ligada ao seu passado. Perseguida por uma força implacável disposta a tudo para destruí-la, Natasha precisa agora lidar com seu passado como espiã e com as relações que deixou para trás muito antes de se tornar uma Vingadora.",
+                "duracao": "2h 16min",
+                "data":"2021",
+                "genero":"Espionagem, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Cate Shortland",
+                "roteiro": "Eric Pearson",
+                "elenco":"Scarlett Johansson, Florence Pugh, David Harbour, O-T Fragbenle, Olga Hurylenko, William Hurt"
+            }
+        ]
+    },
+
+    {
+        "id": 36,
+        "titulo": "Shang-Chi e a Lenda dos Dez anéis",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C380799DA503B028FE36BD83AE57B885F34D8ED67F4ABBBEB09F4897EFD9A7C8/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/ArrOBeio968bUuUOtEpKa1teIh4.jpg",
+        "nota": 7.4,
+        "filme": "ykrsXHj1SL2T37BRXqamXY",
+	    "detalhes": [
+            {
+                "sinopse":"Shang-Chi precisa confrontar o passado que pensou ter deixado para trás. Ao mesmo tempo, ele é envolvido em uma teia de mistérios da organização conhecida como Dez Anéis.",
+                "duracao": "2h 15min",
+                "data":"2021",
+                "genero":"Fantasia, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Destin Daniel Cretton",
+                "roteiro": "Destin Daniel Cretton, Andrew Lanham, Dave Callaham",
+                "elenco":"Simu Liu, Awkwafina, Tony Leung, Michelle Yeoh, Meng'er Zhang, Ben Kingsley"
+            }
+        ]
+    },
+
+    {
+        "id": 37,
+        "titulo": "Eternos",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1A5ED2C488F15ECE823B866B703C98157B39BB1AA09174193F7D416132A13309/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/mzezdUZEnpiUIlxpdyLO1R08Lqm.jpg",
+        "nota": 6.3,
+        "filme": "ZDRAVCFwdM85Mxu5q84ixn",
+	    "detalhes": [
+            {
+                "sinopse":"Após os eventos de 'Vingadores: Ultimato', os Eternos, uma raça alienígena imortal criada pelos Celestiais que vivem em segredo na Terra há mais de 7000 anos, se reúnem após uma tragédia inesperada para proteger a humanidade de seus colegas malignos: os Deviantes.",
+                "duracao": "2h 36min",
+                "data":"2021",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Chloé Zhao",
+                "roteiro": "Chloé Zhao, Patrick Burleigh, Ryan Firpo, Kaz Firpo",
+                "elenco":"Gemma Chan, Richard Madden, Kumail Nanjiani, Lia McHugh, Brian Tyree Henry, Lauren Ridloff"
+            }
+        ]
+    },
+
+    {
+        "id": 16,
+        "titulo": "Eu sou Groot: Os primeiros passos de Groot",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/660804360446FD44FFD8F295F8094B5B2C25A8B168035A50825E8954EDBAE4F7/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/f3VaKVXJJIPgRDDvXKNSNIQkmec.jpg",
+        "nota": 6.6,
+        "filme": "daYhoTu97jCRUvzRvUcVcQ",
+	    "detalhes": [
+            {
+                "sinopse":"Seguindo os acontecimentos de Guardiões da Galáxia vol1, Baby Groot finalmente está pronto para tentar dar seus primeiros passos fora de seu vaso, aprendendo que se deve andar antes de correr.",
+                "duracao": "5min",
+                "data":"2022",
+                "genero":"Ficção Científica, Família, Comédia, Animação",
+                "classificacao":"AL",
+                "direcao":"Kirsten Lepore",
+                "roteiro": "Kirsten Lepore",
+                "elenco":"Vin Diesel"
+            }
+        ]
+    },
+    
+    
+    {
+        "id": 18,
+        "titulo": "Eu sou Groot: O carinha",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/10FA332E70E1C38DBE8F14BC613B38F646D63A706C6D4C278F81C36F170245F4/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/nfixtLlkKg6D8aNTldBUWmvw20N.jpg",
+        "nota": 7.3,
+        "filme": "cCqYmrtmq26wtHtD17jfHo",
+	    "detalhes": [
+            {
+                "sinopse":"Groot descobre uma civilização em miniatura que acredita que o bebê árvore aparentemente gigantesco seja o herói pelo qual esperavam.",
+                "duracao": "5min",
+                "data":"2022",
+                "genero":"Ficção Científica, Família, Comédia, Animação",
+                "classificacao":"AL",
+                "direcao":"Kirsten Lepore",
+                "roteiro": "Kirsten Lepore",
+                "elenco":"Vin Diesel"
+            }
+        ]
+    },
+    
+    {
+        "id": 19,
+        "titulo": "Eu sou Groot: A busca de Groot",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/BB625D34C19FB1EFFE19A3DC7DF63B1A257A4F414843C265B47808729B322CE0/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/oV3mUWylNaRsBkbul7BGilaxE9k.jpg",
+        "nota": 6.8,
+        "filme": "Vz5x3e8c87qq39RWJeJE8p",
+	    "detalhes": [
+            {
+                "sinopse":"Groot investiga um ruído estranho que está assombrando o Quadrante, o que resulta numa competição de dança.",
+                "duracao": "5min",
+                "data":"2022",
+                "genero":"Ficção Científica, Família, Comédia, Animação",
+                "classificacao":"AL",
+                "direcao":"Kirsten Lepore",
+                "roteiro": "Kirsten Lepore",
+                "elenco":"Vin Diesel"
+            }
+        ]
+    },
+    
+    {
+        "id": 20,
+        "titulo": "Eu sou Groot: Groot toma banho",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/617B327956DB4FDA143980CF10DAAC65A6F1ECAFD0D23BEEF6FF7AFB609B362F/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/yUwcFbbeBPmzhWSA2uLNK9afNUZ.jpg",
+        "nota": 7.0,
+        "filme": "a8M8dpNgAoQ9GQaGUa24fH",
+	    "detalhes": [
+            {
+                "sinopse":"Todo mundo precisa de um tempo sozinho para relaxar e se lavar, mas as coisas são um pouco diferentes quando se é um bebê Flora Colosi. Suas tentativas de usar brinquedos, velas e bombas de banho acabam levando a uma bagunça folhosa de proporções épicas.",
+                "duracao": "5min",
+                "data":"2022",
+                "genero":"Ficção Científica, Família, Comédia, Animação",
+                "classificacao":"AL",
+                "direcao":"Kirsten Lepore",
+                "roteiro": "Kirsten Lepore",
+                "elenco":"Vin Diesel"
+            }
+        ]
+    },
+    
+    {
+        "id": 21,
+        "titulo": "Eu sou Groot: Obra prima",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/422ED7C196706AF1A1611E06D7B37B1EA0420ADCA94126C048C9F7282BF9F3CA/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/lOKTj65dQN92ghWho4Rn75dq6z6.jpg",
+        "nota": 7.3,
+        "filme": "ZgLRomm4xTbwUxkJjacsqJ",
+	    "detalhes": [
+            {
+                "sinopse":"Groot pinta um retrato de família de si mesmo com os Guardiões, apenas para descobrir a bagunça que o processo artístico pode ser",
+                "duracao": "5min",
+                "data":"2022",
+                "genero":"Ficção Científica, Família, Comédia, Animação",
+                "classificacao":"AL",
+                "direcao":"Kirsten Lepore",
+                "roteiro": "Kirsten Lepore",
+                "elenco":"Vin Diesel, Bradley Cooper"
+            }
+        ]
+    },
+
+    {
+        "id": 38,
+        "titulo": "Doutor Estranho no Multiverso da Loucura",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8E34744DAC53DBD8CA44510A9CE10A29EA0AA5F83BB96E772235760E4286412B/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/boIgXXUhw5O3oVkhXsE6SJZkmYo.jpg",
+        "nota": 6.9,
+        "filme": "Tqadd9byt2NkacvwaVaTJN",
+	    "detalhes": [
+            {
+                "sinopse":"Doutor Estranho, com a ajuda de aliados místicos antigos e novos, atravessa as perigosas realidades alternativas e alucinantes do Multiverso para enfrentar um novo adversário misterioso.",
+                "duracao": "2h 8min",
+                "data":"2022",
+                "genero":"Ficção Científica, Fantasia, Super-Heróis, Ação e Aventura",
+                "classificacao":"14",
+                "direcao":"Sam Raimi",
+                "roteiro": "Michael Waldron",
+                "elenco":"Benedict Cumberbatch, Elizabeth Olsen, Chiwetel Ejiofor, Benedict Wong, Xochitl Gomez, Jett Klyne"
+            }
+        ]
+    },
+
+    {
+        "id": 41,
+        "titulo": "Pantera Negra: Wakanda para Sempre",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1BDE1501CF1F07947DDCA3A92C2A67C24BEE20754EDB17C3671075DA978AFE7E/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/nZ69WTv7n01womaNz3SHa4inA9x.jpg",
+        "nota": 6.7,
+        "filme": "zNn8cymEhzTE3MCiSyh6Gz",
+	    "detalhes": [
+            {
+                "sinopse":"A rainha Ramonda, Shuri, M'Baku, Okoye e as poderosas Dora Milaje lutam para proteger sua nação após a morte do rei T'Challa. Com a ajuda da Cão de Guerra Nakia e de Everett Ross, eles tentam encontrar um novo caminho para Wakanda.",
+                "duracao": "2h 43min",
+                "data":"2022",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Ryan Coogler",
+                "roteiro": "Ryan Coogler, Joe Robert Cole",
+                "elenco":"Letitia Wright, Lupita Nyong'o, Danai Gurira, Angela Bassett, Winston Duke, Tenoch Huerta"
+            }
+        ]
+    },
+
+    {
+        "id": 44,
+        "titulo": "Thor: Amor e Trovão",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FA217CF0F3E2D310B2E5C0DCE9570E9E617A7EF1804F87B5E27A126F277C978D/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/71XnRvkadkWZZowCGcuBi4XAKdJ.jpg",
+        "nota": 6.2,
+        "filme": "cUxXC9RjJQfD9MiAnZLsXz",
+	    "detalhes": [
+            {
+                "sinopse":"Thor parte em uma jornada de autodescoberta, diferente de tudo que ele já enfrentou. Mas seus esforços são interrompidos por um assassino galáctico conhecido como Gorr, o Carniceiro dos Deuses, que busca a extinção dos deuses. Para combater esta ameaça, Thor pede a ajuda da Rei Valquíria, Korg e da ex-namorada Jane Foster, que, para a surpresa de Thor, inexplicavelmente empunha seu mágico martelo, Mjolnir, como a Poderosa Thor. Juntos, eles embarcam em uma angustiante aventura cósmica para descobrir o mistério da vingança do Carniceiro dos Deuses e detê-lo antes que seja tarde demais.",
+                "duracao": "2h",
+                "data":"2022",
+                "genero":"Romance, Comédia, Fantasia, Super-Heróis, Ação e Aventura",
+                "classificacao":"14",
+                "direcao":"Taika Waititi",
+                "roteiro": "Taika Waititi, Jennifer Kaytin Robinson",
+                "elenco":"Chris Hemsworth, Natalie Portman, Christian Bale, Tessa Thompson, Taika Waititi, Russel Crowe"
+            }
+        ]
+    },
+
+    {
+        "id": 45,
+        "titulo": "Lobisomen na Noite",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1A970B85BA08172D6B2225E57CAF73FC8D81DE8EC41E384B761321C70D88FF30/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/N9jyoeH3wKhiHYNYLE9Pnnls9D.jpg",
+        "nota": 7.2,
+        "filme": "1BanuNwjBkLFiMJHJ7BPNx",
+	    "detalhes": [
+            {
+                "sinopse":"Em uma noite escura e sombria, uma cabala secreta de caçadores de monstros emerge das sombras e se reúne no templo de Bloodstone após a morte de seu líder. Em um estranho e macabro memorial à vida do líder, os participantes são lançados em uma misteriosa e mortal competição por uma poderosa relíquia - uma caçada que acabará por colocá-los cara a cara com um monstro perigoso.",
+                "duracao": "54min",
+                "data":"2022",
+                "genero":"Terror, Fantasia, Super-Heróis, Ação e Aventura",
+                "classificacao":"A14",
+                "direcao":"Michael Giacchino",
+                "roteiro": "Heather Quinn, Peter Cameron",
+                "elenco":"Gael García Bernal, Laura Donnelly, Harriet Sansom Harris, Kirk R. Thatcher, Eugenie Bondurant, Leonardo Nam"
+            }
+        ]
+    },
+
+    {
+        "id": 46,
+        "titulo": "Guardiões da Galáxia: Especial de Festas",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F35E3E28AB316FE6A36E0D23604BDBA468F886E39F861BBB4CBC54D5BF9EEAD9/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/c5v6VCc7bdxWDkKc5ilYsxhOeUp.jpg",
+        "nota": 6.9,
+        "filme": "MHK3ZUkTYQxYtLMokarwAU",
+	    "detalhes": [
+            {
+                "sinopse":"Com a missão de tornar o Natal inesquecível para Quill, os Guardiões vão à Terra em busca do presente perfeito.",
+                "duracao": "44min",
+                "data":"2022",
+                "genero":"Ficção Científica, Comédia, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"James Gunn",
+                "roteiro": "James Gunn",
+                "elenco":"Chris Pratt, Bradley Cooper, Vin Diesel, Dave Bautista, Karen Gillan, Pom Klementieff"
+            }
+        ]
+    },
+
+    {
+        "id": 47,
+        "titulo": "Homem-Formiga e a Vespa: Quantumania",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C99738D5EAAB656BDA2DD60C3B9B1F1318859CDA22E2FEE395B28DB50C937007/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/pDNT1gXhZEV1V70eCVmJAQNEqBl.jpg",
+        "nota": 6.1,
+        "filme": "ADik4sjXDoLCw3mVYhJ7Tt",
+	    "detalhes": [
+            {
+                "sinopse":"Scott Lang e Hope van Dyne em suas jornadas como super-heróis. Scott e sua família são puxados para o Reino Quântico, onde eles precisarão enfrentar um novo e terrível vilão: Kang, o Conquistador e M.O.D.O.K..",
+                "duracao": "2h 6min",
+                "data":"2023",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Peyton Reed",
+                "roteiro": "Jeff Loveness",
+                "elenco":"Paul Rudd, Evangeline Lilly, Michael Douglas, Michelle Pfeiffer, Kathryn Newton, Jonathan Majors"
+            }
+        ]
+    },
+
+    {
+        "id": 51,
+        "titulo": "Guardiões da Galáxia vol.3",
+        "bg": "https://www.themoviedb.org/t/p/original/rVSsjepWbzfS2gIM6Cd5MTKVjUA.jpg",
+        "poster": "https://www.themoviedb.org/t/p/original/4yycSPnchdNAZirGkmCYQwTd3cr.jpg",
+        "nota": 8.0,
+        "filme": "4qMBKZt1mVu55JwbD57k3o",
+	    "detalhes": [
+            {
+                "sinopse":"Peter Quill, que ainda está se recuperando da perda de Gamora, tem que reunir a sua equipe para defender o universo e proteger um dos seus. Uma missão que, se não for concluída com sucesso, pode levar ao fim dos Guardiões como os conhecemos.",
+                "duracao": "2h 30min",
+                "data":"2023",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"14",
+                "direcao":"James Gunn",
+                "roteiro": "James Gunn",
+                "elenco":"Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel, Bradley Cooper, Pom Klementieff, Karen Gillan"
+            }
+        ]
+    }
+]

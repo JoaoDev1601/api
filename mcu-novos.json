@@ -1,0 +1,37 @@
+[
+    {
+        "id": 47,
+        "t1": "Homem-Formiga e a Vespa: Quantumania",
+        "nota": 6.1,
+	    "detalhes": [
+            {
+                "sinopse":"Scott Lang e Hope van Dyne em suas jornadas como super-heróis. Scott e sua família são puxados para o Reino Quântico, onde eles precisarão enfrentar um novo e terrível vilão: Kang, o Conquistador e M.O.D.O.K..",
+                "duracao": "2h 6min",
+                "data":"2023",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Peyton Reed",
+                "elenco":"Paul Rudd, Evangeline Lilly, Michael Douglas, Michelle Pfeiffer, KAthryn Newton, Jonathan Majors"
+            }
+        ]
+    },
+
+    {
+        "id": 51,
+        "t2": "Guardiões da Galáxia vol.3",
+        "nota": 8.0,
+        "filme": "4qMBKZt1mVu55JwbD57k3o",
+	    "detalhes": [
+            {
+                "sinopse":"Peter Quill, que ainda está se recuperando da perda de Gamora, tem que reunir a sua equipe para defender o universo e proteger um dos seus. Uma missão que, se não for concluída com sucesso, pode levar ao fim dos Guardiões como os conhecemos.",
+                "duracao": "2h 30min",
+                "data":"2023",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"14",
+                "direcao":"James Gunn",
+                "roteiro": "James Gunn",
+                "elenco":"Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel, Bradley Cooper, Pom Klementieff, Karen Gillan"
+            }
+        ]
+    }
+]

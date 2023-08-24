@@ -1,0 +1,1004 @@
+[
+    {
+        "id": 49,
+        "titulo": "Homem-Aranha: Longe de Casa",
+        "bg": "https://www.themoviedb.org/t/p/original/q8HcItKnJYBQa2XrB4Ug6Q8BeNe.jpg",
+        "poster": "https://www.themoviedb.org/t/p/original/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg",
+        "nota": 7.4,
+	    "detalhes": [
+            {
+                "sinopse":"Peter Parker está em uma viagem de duas semanas pela Europa, ao lado de seus amigos de colégio, quando é surpreendido pela visita de Nick Fury. Convocado para mais uma missão heroica, ele precisa enfrentar vários vilões que surgem em cidades-símbolo do continente, como Londres, Paris e Veneza, e também a aparição do enigmático Mysterio.",
+                "duracao": "2h 10min",
+                "data":"2019",
+                "genero":"Super-Heróis, Ação e Aventura, Ficção Científica",
+                "classificacao":"10",
+                "direcao":"Jon Watts",
+                "roteiro": "Erik Sommers, Chris Mckenna",
+                "elenco":"Tom Holland, Samuel L. Jackson, Jake Gyllenhall, Marissa Tomei, Jon Favreau, Zendaya, Jacob Batalon"
+            }
+        ]
+    },
+
+    {
+        "id": 34,
+        "titulo": "WandaVision",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F82A4A1FCE56A73672F32B9AB7E130BFE756B50B29A0420C28E2C51997BB73E6/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/cm5xwxoWl2ZWuCKzwa0umHHsbmI.jpg",
+        "nota": 7.9,
+	    "detalhes": [
+            {
+                "sinopse":"Wanda Maximoff e Visão, um casal de super-heróis com uma vida perfeita, que começa a suspeitar que nem tudo é o que parece.",
+                "duracao": "30min",
+                "data":"2021",
+                "genero":"Romance, Drama, Ficção Científica, Fantasia, Super-Heróis",
+                "classificacao":"12",
+                "classificacao temp.1": "12",
+                "criacao": "Jac Schaeffer",
+                "elenco":"Elizabeth Olsen, Paul Bettany, Teyonah Parris, Kathryn Hahn, Randall Park, Kat Dennings"
+            }
+        ],
+        "episodios": [
+            {
+                "ep1": [
+                    {
+                        "titulo":"Gravado ao Vivo com Plateia",
+                        "nota": 7.3,
+                        "duracao": "31min",
+                        "sinopse": "Wanda e Visão tentam esconder seus poderes durante um jantar com o chefe de Visão e sua esposa.",
+                        "classificacao":"12"
+                    }
+                ],
+                "ep2": [
+                    {
+                        "titulo":"Não Mude de Canal",
+                        "nota": 7.6,
+                        "duracao": "39min",
+                        "sinopse": "Wanda e Visão fazem truques de magica em um show de talentos beneficente para tentar se enturmar.",
+                        "classificacao":"12"
+                    }
+                ],
+                "ep3": [
+                    {
+                        "titulo":"Agora em Cores",
+                        "nota": 8.0,
+                        "duracao": "35min",
+                        "sinopse": "Com a gravidez, os poderes de Wanda fogem do controle e a dupla se prepara para um parto acelerado.",
+                        "classificacao":"12"
+                    }
+                ],
+                "ep4": [
+                    {
+                        "titulo":"Interrompemos este Programa",
+                        "nota": 8.7,
+                        "duracao": "37min",
+                        "sinopse": "Mônica Rambeau desaparece durante uma missão especial relacionada a armas sencientes.",
+                        "classificacao":"12"
+                    }
+                ],
+                "ep5": [
+                    {
+                        "titulo":"Em um Episódio Muito Especial...",
+                        "nota": 8.9,
+                        "duracao": "43min",
+                        "sinopse": "Wanda analisa as preocupações de Visão, que desconfia do estranho comportamento dos vizinhos.",
+                        "classificacao":"12"
+                    }
+                ],
+                "ep6": [
+                    {
+                        "titulo":"Um Halloween Assustadoramente Inédito!",
+                        "nota": 8.7,
+                        "duracao": "40min",
+                        "sinopse": "Imprevistos no Halloween separam Wanda de Visão, que investiga atividades anômolas em Westview.",
+                        "classificacao":"12"
+                    }
+                ],
+                "ep7": [
+                    {
+                        "titulo":"Derrubando a Quarta Parede",
+                        "nota": 8.3,
+                        "duracao": "39min",
+                        "sinopse": "Mônica planeja seu retorno enquanto Wanda tem complicações, e Visão forma uma nova aliança.",
+                        "classificacao":"12"
+                    }
+                ],
+                "ep8": [
+                    {
+                        "titulo":"Nos Capítulos Anteriores",
+                        "nota": 8.9,
+                        "duracao": "48min",
+                        "sinopse": "Wanda embarca em uma viagem ao passado para compreender melhor o presente e o futuro.",
+                        "classificacao":"12"
+                    }
+                ],
+                "ep9": [
+                    {
+                        "titulo":"O Grande Final",
+                         "nota": 8.3,
+                        "duracao": "51min",
+                        "sinopse": "Os acontecimentos chegam a um momento culminante e o destino de todos é determinado.",
+                        "classificacao":"12"
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "id": 35,
+        "titulo": "Falcão e o Soldado Invernal",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/78DD7450FE6C882326E93FADAF687CCAA8D64E2BB961E781338426461FA121AE/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/oF9njYCN6lBdrsi6wfulcxTggvn.jpg",
+        "nota": 7.1,
+	    "detalhes": [
+            {
+                "sinopse":"Após os eventos de 'Vingadores: Ultimato', Sam Wilson/Falcão e Bucky Barnes/Soldado Invernal se unem em uma aventura que testa suas habilidades - e a paciência.",
+                "duracao": "50min",
+                "data":"2021",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura, Amizade",
+                "classificacao":"14",
+                "classificacao temp.1": "14",
+                "criacao":"Malcolm Spellman",
+                "elenco":"Sebastian Stan, Anthony Mackie, Daniel Bruhl, Emily VanCamp, Wyatt Russel, Erin Kellyman"
+            }
+        ],
+        "episodios": [
+            {
+                "ep1": [
+                    {
+                        "titulo":"Nova Ordem Mundial",
+                        "nota": 7.6,
+                        "duracao": "51min",
+                        "sinopse": "Sam Wilson e Bucky Barnes percebem que seu futuro não tem nada de normal.",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep2": [
+                    {
+                        "titulo":"O Herói Americano",
+                        "nota": 7.7,
+                        "duracao": "52min",
+                        "sinopse": "John Walker é nomeado Capitão América, e Sam e Bucky unem forças contra um grupo de rebeldes.",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep3": [
+                    {
+                        "titulo":"Mercador do Poder",
+                        "nota": 7.8,
+                        "duracao": "55min",
+                        "sinopse": "Sam e Bucky vão a um refúgio de criminosos em busca de informações sobre o soro do supersoldade.",
+                        "classificacao":"14"
+                    }
+                ],
+                "e4": [
+                    {
+                        "titulo":"O Mundo Está Vendo",
+                        "nota": 8.6,
+                        "duracao": "56min",
+                        "sinopse": "John Walker perde a paciência com Sam e Bucky, que seguem investigando Karli Morgenthau.",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep5": [
+                    {
+                        "titulo":"Verdade",
+                        "nota": 7.8,
+                        "duracao": "62min",
+                        "sinopse": "John Walker sofre as consequências de suas ações, e Sam e Bucky voltam para os EUA.",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep6": [
+                    {
+                        "titulo":"Um Mundo, Um povo",
+                        "nota": 7.7,
+                        "duracao": "54min",
+                        "sinopse": "Quando os Apátridas intensificam seus esforços, Sam e Bucky decidem agir.",
+                        "classificacao":"14"
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "id": 32,
+        "titulo": "Loki",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/998A3834BB932A55D75F385B71EBAC16589A1D0E43898B0BBF0AB49B2CDEAC4F/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/ukR0MkCQE6IylzBPd61txJi1L3E.jpg",
+        "nota": 8.2,
+	    "detalhes": [
+            {
+                "sinopse":"Começando imediatamente depois que Loki rouba o Tesseract (de novo), ele se encontra diante da Autoridade de Variação Temporal, uma organização burocrática que existe fora do tempo e espaço. Forçado a responder por seus crimes contra a linha do tempo, ele recebe uma escolha: Ser deletado da realidade ou ajudar a capturar uma ameaça ainda maior.",
+                "duracao": "52min",
+                "data":"2021-2023",
+                "genero":"Ficção Científica, Fantasia, Super-Heróis, Ação e Aventura",
+                "classificacao":"14",
+                "classificacao temp.1":"14",
+                "criacao":"Michael Waldron",
+                "elenco":"Tom Hiddleston"
+            }
+        ],
+        "episodios": [
+            {
+                "ep1": [
+                    {
+                        "titulo":"Glorioso Propósito",
+                        "nota": 8.6,
+                        "duracao": "53min",
+                        "sinopse": "Após roubar o Tesseract em Vingadores: Ultimato, Loki conhece a autoridade de Variância Temporal.",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep2": [
+                    {
+                        "titulo":"A Variante",
+                        "nota": 8.7,
+                        "duracao": "56min",
+                        "sinopse": "Mobius põe Loki para trabalhar, mas nem todos na AVT gostam da presença, do Deus da Mentira.",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep3": [
+                    {
+                        "titulo":"Lamentis",
+                        "nota": 7.7,
+                        "duracao": "44min",
+                        "sinopse": "Loki descobre os planos da Variante, mas são seus próprios planos que mudarão o destino de ambos.",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep4": [
+                    {
+                        "titulo":"O Evento Nexus",
+                        "nota": 9.0,
+                        "duracao": "50min",
+                        "sinopse": "Tensão e paranoia tomam conta da AVT enquanto Mobius e a Caçadora B-15 procuram por Loky e  Sylvie.",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep5": [
+                    {
+                        "titulo":"Jornada ao Mistério",
+                        "nota": 8.9,
+                        "duracao": "51min",
+                        "sinopse": "Loki tenta escapar do Vazio, um purgatório desolado onde encontra variantes de si mesmo.",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep6": [
+                    {
+                        "titulo":"Por Todo.Sempre",
+                        "nota": 8.6,
+                        "duracao": "48min",
+                        "sinopse": "Em uma corrida contra o tempo no final de temporada, Loki e Sylvie têm um encontro com o destino.",
+                        "classificacao":"14"
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "id": 25,
+        "titulo": "Viúva Negra",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B87C7382127C700F0C5BBFBB082242D7D1E31C3E77581FE4B3165A9776224E5E/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/rKq1Vlw0Bqe2EEvdmIkkkgPQAGf.jpg",
+        "nota": 6.7,
+	    "detalhes": [
+            {
+                "sinopse":"Natasha Romanoff, também conhecida como Viúva Negra, confronta o lado mais sombrio de sua história quando surge uma perigosa conspiração ligada ao seu passado. Perseguida por uma força implacável disposta a tudo para destruí-la, Natasha precisa agora lidar com seu passado como espiã e com as relações que deixou para trás muito antes de se tornar uma Vingadora.",
+                "duracao": "2h 16min",
+                "data":"2021",
+                "genero":"Espionagem, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Cate Shortland",
+                "roteiro": "Eric Pearson",
+                "elenco":"Scarlett Johansson, Florence Pugh, David Harbour, O-T Fragbenle, Olga Hurylenko, William Hurt"
+            }
+        ]
+    },
+
+    {
+        "id": 33,
+        "titulo": "What if...?",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0A9E8C0D4F71F4EAC200742A53389C28ECB11B8F45B56CFF92D6D125612229FE/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/e7n55C4027aRPHNmjE8XIk8nKvZ.jpg",
+        "nota": 7.4,
+	    "detalhes": [
+            {
+                "sinopse":"Baseada nos populares quadrinhos homônimos, a produção explorará histórias hipotéticas que poderiam ter mudado completamente o rumo do universo cinematográfico da editora.",
+                "duracao": "35min",
+                "data":"2021",
+                "genero":"Ficção Científica, Antologia, Animação, Super-Heróis, Ação e Aventura",
+                "classificacao":"A14",
+                "classificacao temp.1":"A14",
+                "elenco":"Jeffrey Wright"
+            }
+        ],
+        "episodios": [
+            {
+                "ep1": [
+                    {
+                        "titulo":"E se... a capitã Carter fosse a primeira vingadora?",
+                        "nota": 7.0,
+                        "duracao": "36min",
+                        "sinopse": "Quando Steve Rogers fica gravemente ferido, Peggy Carter se torna a primeira supersoldado do mundo.",
+                        "classificacao":"A14"
+                    }
+                ],
+                "ep2": [
+                    {
+                        "titulo":"E se... T'Challa se tornasse o Senhor das Estrelas?",
+                        "nota": 7.8,
+                        "duracao": "37min",
+                        "sinopse": "OS piratas espaciais conhecidos como Saqueadores sequestram T'Challa em vez de Peter Quill.",
+                        "classificacao":"A14"
+                    }
+                ],
+                "ep3": [
+                    {
+                        "titulo":"E se... o mundo perdesse heróis mais poderosos?",
+                        "nota": 7.8,
+                        "duracao": "35min",
+                        "sinopse": "Nick Fury tenta formar os Vingadores, mas os candidatos se tornam alvo de um assassino em série.",
+                        "classificacao":"A14"
+                    }
+                ],
+                "ep4": [
+                    {
+                        "titulo":"E se... o Doutor Estranho perdesse seu coração em vez das mãos?",
+                        "nota": 8.8,
+                        "duracao": "38min",
+                        "sinopse": "Desesperado, o Doutor Estranho usa o Olho de Agamotto em uma perigosa tentativa de mudar o passado.",
+                        "classificacao":"A14"
+                    }
+                ],
+                "ep5": [
+                    {
+                        "titulo":"E se... zumbis?",
+                        "nota": 7.7,
+                        "duracao": "34min",
+                        "sinopse": "Quando os Vingadores são infectados por uma praga zumbi, os heróis sobreviventes procuram a cura.",
+                        "classificacao":"A14"
+                    }
+                ],
+                "ep6": [
+                    {
+                        "titulo":"E se... Killmonger tivesse resgatado Tony Stark?",
+                        "nota": 6.7,
+                        "duracao": "36min",
+                        "sinopse": "Killmonger, um soldado americano, resgata Tony Stark quando seu Humvee é atacado no Afeganistão.",
+                        "classificacao":"A14"
+                    }
+                ],
+                "ep7": [
+                    {
+                        "titulo":"E se... Thor fosse filho único?",
+                        "nota": 6.4,
+                        "duracao": "38min",
+                        "sinopse": "Thor, que nunca aprendeu a ser um bom herói, dá uma festa na Terra que foge do controle.",
+                        "classificacao":"A14"
+                    }
+                ],
+                "ep8": [
+                    {
+                        "titulo":"E se... Ultron tivesse vencido?",
+                        "nota": 9.0,
+                        "duracao": "32min",
+                        "sinopse": "Natasha e Clint tentam destruir o robô assassino Ultron após um evento cataclísmico.",
+                        "classificacao":"A14"
+                    }
+                ],
+                "ep9": [
+                    {
+                        "titulo":"E se... o Vigia quebrasse seu juramento?",
+                        "nota": 8.4,
+                        "duracao": "37min",
+                        "sinopse": "E se... o Vigia quebrasse seu juramento?",
+                        "classificacao":"A14"
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "id": 36,
+        "titulo": "Shang-Chi e a Lenda dos Dez anéis",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C380799DA503B028FE36BD83AE57B885F34D8ED67F4ABBBEB09F4897EFD9A7C8/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/ArrOBeio968bUuUOtEpKa1teIh4.jpg",
+        "nota": 7.4,
+	    "detalhes": [
+            {
+                "sinopse":"Shang-Chi precisa confrontar o passado que pensou ter deixado para trás. Ao mesmo tempo, ele é envolvido em uma teia de mistérios da organização conhecida como Dez Anéis.",
+                "duracao": "2h 15min",
+                "data":"2021",
+                "genero":"Fantasia, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Destin Daniel Cretton",
+                "roteiro": "Destin Daniel Cretton, Andrew Lanham, Dave Callaham",
+                "elenco":"Simu Liu, Awkwafina, Tony Leung, Michelle Yeoh, Meng'er Zhang, Ben Kingsley"
+            }
+        ]
+    },
+
+    {
+        "id": 37,
+        "titulo": "Eternos",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1A5ED2C488F15ECE823B866B703C98157B39BB1AA09174193F7D416132A13309/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/mzezdUZEnpiUIlxpdyLO1R08Lqm.jpg",
+        "nota": 6.3,
+	    "detalhes": [
+            {
+                "sinopse":"Após os eventos de 'Vingadores: Ultimato', os Eternos, uma raça alienígena imortal criada pelos Celestiais que vivem em segredo na Terra há mais de 7000 anos, se reúnem após uma tragédia inesperada para proteger a humanidade de seus colegas malignos: os Deviantes.",
+                "duracao": "2h 36min",
+                "data":"2021",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Chloé Zhao",
+                "roteiro": "Chloé Zhao, Patrick Burleigh, Ryan Firpo, Kaz Firpo",
+                "elenco":"Gemma Chan, Richard Madden, Kumail Nanjiani, Lia McHugh, Brian Tyree Henry, Lauren Ridloff"
+            }
+        ]
+    },
+
+    {
+        "id": 39,
+        "titulo": "Gavião Arqueiro",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/71F221AB1336FB316B0E5DCF595A8CD323FEAED9F3FD80D2F1A372E7A7794101/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/62qfVDg4VK3kqZFxrRztPqSbal4.jpg",
+        "nota": 7.5,
+	    "detalhes": [
+            {
+                "sinopse":"O ex-vingador Clint Barton tem uma missão aparentemente simples: voltar para sua família no Natal. Será possível? Talvez com a ajuda de Kate Bishop, uma arqueira de 22 anos que sonha em se tornar uma super-heroína. Os dois são forçados a trabalhar juntos quando uma presença do passado de Barton ameaça descarrilar muito mais do que o espírito festivo.",
+                "duracao": "50min",
+                "data":"2021",
+                "genero":"Super-Heróis, Ação e Aventura, Amizade",
+                "classificacao":"14",
+                "classificacao temp.1":"14",
+                "criacao":"Jonathan Igla",
+                "elenco":"Jeremy Renner, Hailee Steinfield, Vera Farmiga, Fra Fee, Tony Dalton, Zahn McCLarnon"
+            }
+        ],
+        "episodios": [
+            {
+                "ep1": [
+                    {
+                        "titulo":"Nunca Conheça seus Heróis",
+                        "nota": 7.5,
+                        "duracao": "51min",
+                        "sinopse": "Kate Bishop se vê no meio de uma conspiração criminosa, tirando Gavião Arqueiro da aposentadoria.",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep2": [
+                    {
+                        "titulo":"Esconde-Esconde",
+                        "nota": 7.6,
+                        "duracao": "52min",
+                        "sinopse": "Clint tenta ajudar Kate a se livrar da Gangue do Agasalho e de um caso de assassinato.",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep3": [
+                    {
+                        "titulo":"Ecos",
+                        "nota": 8.2,
+                        "duracao": "44min",
+                        "sinopse": "Após escapar de uma nova ameaça, Clint e Kate se juntam contra uma conspiração criminosa crescente.",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep4": [
+                    {
+                        "titulo":"Parceiros, Certo?",
+                        "nota": 8.0,
+                        "duracao": "42min",
+                        "sinopse": "Segredos e a dura verdade são revelados, culminando em uma batalha contra dois oponentes.",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep5": [
+                    {
+                        "titulo":"Ronin",
+                        "nota": 8.5,
+                        "duracao": "46min",
+                        "sinopse": "Um conflito quase acaba com a parceria de Clint e Kate, mas ela faz uma descoberta que muda tudo.",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep6": [
+                    {
+                        "titulo":"Então Já É Natal?",
+                        "nota": 8.0,
+                        "duracao": "62min",
+                        "sinopse": "A parceria de Clint e Kate é testada ao lidarem com as consequências de terem exposto uma conspiração.",
+                        "classificacao":"14"
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "id": 50,
+        "titulo": "Homem-Aranha: Sem Volta para Casa",
+        "bg": "https://www.themoviedb.org/t/p/original/nVpfDvyF5ihs4j0DtNCCqSVdMT5.jpg",
+        "poster": "https://www.themoviedb.org/t/p/original/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg",
+        "nota": 8.2,
+	    "detalhes": [
+            {
+                "sinopse":"Peter Parker é desmascarado e não consegue mais separar sua vida normal dos grandes riscos de ser um super-herói. Quando ele pede ajuda ao Doutor Estranho, os riscos se tornam ainda mais perigosos, e o forçam a descobrir o que realmente significa ser o Homem-Aranha...",
+                "duracao": "2h 29min",
+                "data":"2021",
+                "genero":"Super-Heróis, Ação e Aventura, Ficção Científica",
+                "classificacao":"12",
+                "direcao":"Jon Watts",
+                "roteiro": "Erik Sommers, Chris Mckenna",
+                "elenco":"Tom Holland, Zendaya, Jacob Batalon, Benedict Cumberbatch, Marissa Tomei, Jon Favreau, Tobey Maguire, Andrew Garfield"
+            }
+        ]
+    },
+
+    {
+        "id": 40,
+        "titulo": "Cavaleiro da Lua",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5A01991D23E4E8A32D54B56A3921B31B2662805A1CC50ED9418997CDCD2D2E55/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/tkc7AVyUoG9VEeDvukN0TVqa24C.jpg",
+        "nota": 7.3,
+	    "detalhes": [
+            {
+                "sinopse":"A série acompanha Steven Grant, um gentil e educado funcionário de uma loja de souvenir, que é atormentado com apagões e memórias de outra vida. Steven descobre que tem transtorno dissociativo de identidade e divide o corpo com o mercenário Marc Spector. À medida que os inimigos de Steven/Marc se voltam para eles, ambos devem navegar em suas complexas identidades enquanto mergulham em um mistério mortal entre os poderosos deuses do Egito.",
+                "duracao": "47min",
+                "data":"2022",
+                "genero":"Fantasia, Super-Heróis, Ação e Aventura",
+                "classificacao":"14",
+                "classificacao temp.1":"14",
+                "ciracao":"Jeremy Slater",
+                "elenco":"Oscar Isaac, May Calamawy, Khalid Abdalla, Ann Akinjirin, Antonia Salib, F. Murray Abrahams"
+            }
+        ],
+        "episodios": [
+            {
+                "ep1": [
+                    {
+                        "titulo":"O Problema do Peixe Dourado",
+                        "nota": 8.1,
+                        "duracao": "48min",
+                        "sinopse": "Steven Grant descobre que pode ser um herói, mas também que divide o corpo com um mercenário.",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep2": [
+                    {
+                        "titulo":"Invoque o Traje",
+                        "nota": 7.9,
+                        "duracao": "53min",
+                        "sinopse": "Uma misteriosa aliada aparece e Steven descobre que está envolvido em uma guerra entre deuses.",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep3": [
+                    {
+                        "titulo":"O Tipo Amigável",
+                        "nota": 7.5,
+                        "duracao": "53min",
+                        "sinopse": "Harrow tem vantagem, mas Marc assume o controle e percorre o Cairo com Layla em busca de pistas.",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep4": [
+                    {
+                        "titulo":"A Tumba",
+                        "nota": 8.2,
+                        "duracao": "54min",
+                        "sinopse": "Marc e Steven buscam equilíbrio enquanto forças sobrenaturais tentam detê-los.",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep5": [
+                    {
+                        "titulo":"O Manicômio",
+                        "nota": 8.8,
+                        "duracao": "50min",
+                        "sinopse": "Marc e Steven vasculham suas memórias em busca da verdade.",
+                        "classificacao":"14"
+                    }
+                ],
+                "ep6": [
+                    {
+                        "titulo":"Deuses e Monstros",
+                        "nota": 7.8,
+                        "duracao": "45min",
+                        "sinopse": "O Cavaleiro da Lua ressurge. Marc, Steven e Khonshu devem unir forças para deter Ammit.",
+                        "classificacao":"14"
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "id": 38,
+        "titulo": "Doutor Estranho no Multiverso da Loucura",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8E34744DAC53DBD8CA44510A9CE10A29EA0AA5F83BB96E772235760E4286412B/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/boIgXXUhw5O3oVkhXsE6SJZkmYo.jpg",
+        "nota": 6.9,
+	    "detalhes": [
+            {
+                "sinopse":"Doutor Estranho, com a ajuda de aliados místicos antigos e novos, atravessa as perigosas realidades alternativas e alucinantes do Multiverso para enfrentar um novo adversário misterioso.",
+                "duracao": "2h 8min",
+                "data":"2022",
+                "genero":"Ficção Científica, Fantasia, Super-Heróis, Ação e Aventura",
+                "classificacao":"14",
+                "direcao":"Sam Raimi",
+                "roteiro": "Michael Waldron",
+                "elenco":"Benedict Cumberbatch, Elizabeth Olsen, Chiwetel Ejiofor, Benedict Wong, Xochitl Gomez, Jett Klyne"
+            }
+        ]
+    },
+
+    {
+        "id": 43,
+        "titulo": "Ms. Marvel",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FA46176D33646CF1E9F235D90859DBB1DC8B09FDAFA21D8CB1B2C118267FE099/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
+        "nota": 6.2,
+	    "detalhes": [
+            {
+                "sinopse":"Kamala Khan é uma adolescente muçulmana de Jersey City. Ela adora jogar videogames e escrever fanfictions, além de ser fã de super-heróis e ter uma imaginação sem limites - especialmente quando se trata da Capitã Marvel. Kamala sente que não se encaixa na escola e, às vezes, nem mesmo em casa. Mas um dia ela descobre que tem superpoderes como os heróis que sempre admirou... e a vida fica bem melhor com superpoderes, não é?",
+                "duracao": "49min",
+                "data":"2022",
+                "genero":"De adolescente a adulto, Comédia, Super-Heróis, Ação e Aventura",
+                "classificacao":"A14",
+                "criacao": "Bisha K. Ali",
+                "elenco":"Irman Vellani, Aramis Knight, Saagar Shaikh, Rish Shah, Zenobia Shroff, Mohan Kapur"
+            }
+        ],
+        "episodios": [
+            {
+                "ep1": [
+                    {
+                        "titulo":"Geração 'Por quê?'",
+                        "nota": 7.2,
+                        "duracao": "50min",
+                        "sinopse": "Kamala Khan vai à Vingacon e descobre que tem superpoderes.",
+                        "classificacao":"A14"
+                    }
+                ],
+                "ep2": [
+                    {
+                        "titulo":"O crush",
+                        "nota": 7.0,
+                        "duracao": "52min",
+                        "sinopse": "Kamala e Bruno tentam descobrir a origem dos poderes e embarcam em um aventura arriscada.",
+                        "classificacao":"A14"
+                    }
+                ],
+                "ep3": [
+                    {
+                        "titulo":"Destinada",
+                        "nota": 7.0,
+                        "duracao": "48min",
+                        "sinopse": "No casamento de Aamir, Kamala pode enfrentar graves consequências devido a uma decisão.",
+                        "classificacao":"A14"
+                    }
+                ],
+                "ep4": [
+                    {
+                        "titulo":"De volta às origens",
+                        "nota": 6.7,
+                        "duracao": "48min",
+                        "sinopse": "Kamala viaja pelo mundo para descobrir os mistérios do bracelete e a história de sua família.",
+                        "classificacao":"A14"
+                    }
+                ],
+                "ep5": [
+                    {
+                        "titulo":"O tempo dirá",
+                        "nota": 6.5,
+                        "duracao": "41min",
+                        "sinopse": "O bracelete revela a Kamala segredos sobre sua linhagem familiar e a verdade por trás do véu.",
+                        "classificacao":"A14"
+                    }
+                ],
+                "ep6": [
+                    {
+                        "titulo":"Nada normal",
+                        "nota": 7.1,
+                        "duracao": "50min",
+                        "sinopse": "De volta a Jersey City, Kamala luta para salvar seus amigos das garras do Controle de Danos.",
+                        "classificacao":"A14"
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "id": 44,
+        "titulo": "Thor: Amor e Trovão",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FA217CF0F3E2D310B2E5C0DCE9570E9E617A7EF1804F87B5E27A126F277C978D/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/71XnRvkadkWZZowCGcuBi4XAKdJ.jpg",
+        "nota": 6.2,
+	    "detalhes": [
+            {
+                "sinopse":"Thor parte em uma jornada de autodescoberta, diferente de tudo que ele já enfrentou. Mas seus esforços são interrompidos por um assassino galáctico conhecido como Gorr, o Carniceiro dos Deuses, que busca a extinção dos deuses. Para combater esta ameaça, Thor pede a ajuda da Rei Valquíria, Korg e da ex-namorada Jane Foster, que, para a surpresa de Thor, inexplicavelmente empunha seu mágico martelo, Mjolnir, como a Poderosa Thor. Juntos, eles embarcam em uma angustiante aventura cósmica para descobrir o mistério da vingança do Carniceiro dos Deuses e detê-lo antes que seja tarde demais.",
+                "duracao": "2h",
+                "data":"2022",
+                "genero":"Romance, Comédia, Fantasia, Super-Heróis, Ação e Aventura",
+                "classificacao":"14",
+                "direcao":"Taika Waititi",
+                "roteiro": "Taika Waititi, Jennifer Kaytin Robinson",
+                "elenco":"Chris Hemsworth, Natalie Portman, Christian Bale, Tessa Thompson, Taika Waititi, Russel Crowe"
+            }
+        ]
+    },
+
+    {
+        "id": 16,
+        "titulo": "Eu sou Groot: Os primeiros passos de Groot",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/660804360446FD44FFD8F295F8094B5B2C25A8B168035A50825E8954EDBAE4F7/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/f3VaKVXJJIPgRDDvXKNSNIQkmec.jpg",
+        "nota": 6.6,
+	    "detalhes": [
+            {
+                "sinopse":"Seguindo os acontecimentos de Guardiões da Galáxia vol1, Baby Groot finalmente está pronto para tentar dar seus primeiros passos fora de seu vaso, aprendendo que se deve andar antes de correr.",
+                "duracao": "5min",
+                "data":"2022",
+                "genero":"Ficção Científica, Família, Comédia, Animação",
+                "classificacao":"AL",
+                "direcao":"Kirsten Lepore",
+                "roteiro": "Kirsten Lepore",
+                "elenco":"Vin Diesel"
+            }
+        ]
+    },
+
+    {
+        "id": 18,
+        "titulo": "Eu sou Groot: O carinha",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/10FA332E70E1C38DBE8F14BC613B38F646D63A706C6D4C278F81C36F170245F4/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/nfixtLlkKg6D8aNTldBUWmvw20N.jpg",
+        "nota": 7.3,
+	    "detalhes": [
+            {
+                "sinopse":"Groot descobre uma civilização em miniatura que acredita que o bebê árvore aparentemente gigantesco seja o herói pelo qual esperavam.",
+                "duracao": "5min",
+                "data":"2022",
+                "genero":"Ficção Científica, Família, Comédia, Animação",
+                "classificacao":"AL",
+                "direcao":"Kirsten Lepore",
+                "roteiro": "Kirsten Lepore",
+                "elenco":"Vin Diesel"
+            }
+        ]
+    },
+    
+    {
+        "id": 19,
+        "titulo": "Eu sou Groot: A busca de Groot",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/BB625D34C19FB1EFFE19A3DC7DF63B1A257A4F414843C265B47808729B322CE0/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/oV3mUWylNaRsBkbul7BGilaxE9k.jpg",
+        "nota": 6.8,
+	    "detalhes": [
+            {
+                "sinopse":"Groot investiga um ruído estranho que está assombrando o Quadrante, o que resulta numa competição de dança.",
+                "duracao": "5min",
+                "data":"2022",
+                "genero":"Ficção Científica, Família, Comédia, Animação",
+                "classificacao":"AL",
+                "direcao":"Kirsten Lepore",
+                "roteiro": "Kirsten Lepore",
+                "elenco":"Vin Diesel"
+            }
+        ]
+    },
+    
+    {
+        "id": 20,
+        "titulo": "Eu sou Groot: Groot toma banho",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/617B327956DB4FDA143980CF10DAAC65A6F1ECAFD0D23BEEF6FF7AFB609B362F/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/yUwcFbbeBPmzhWSA2uLNK9afNUZ.jpg",
+        "nota": 7.0,
+	    "detalhes": [
+            {
+                "sinopse":"Todo mundo precisa de um tempo sozinho para relaxar e se lavar, mas as coisas são um pouco diferentes quando se é um bebê Flora Colosi. Suas tentativas de usar brinquedos, velas e bombas de banho acabam levando a uma bagunça folhosa de proporções épicas.",
+                "duracao": "5min",
+                "data":"2022",
+                "genero":"Ficção Científica, Família, Comédia, Animação",
+                "classificacao":"AL",
+                "direcao":"Kirsten Lepore",
+                "roteiro": "Kirsten Lepore",
+                "elenco":"Vin Diesel"
+            }
+        ]
+    },
+    
+    {
+        "id": 21,
+        "titulo": "Eu sou Groot: Obra prima",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/422ED7C196706AF1A1611E06D7B37B1EA0420ADCA94126C048C9F7282BF9F3CA/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/lOKTj65dQN92ghWho4Rn75dq6z6.jpg",
+        "nota": 7.3,
+	    "detalhes": [
+            {
+                "sinopse":"Groot pinta um retrato de família de si mesmo com os Guardiões, apenas para descobrir a bagunça que o processo artístico pode ser",
+                "duracao": "5min",
+                "data":"2022",
+                "genero":"Ficção Científica, Família, Comédia, Animação",
+                "classificacao":"AL",
+                "direcao":"Kirsten Lepore",
+                "roteiro": "Kirsten Lepore",
+                "elenco":"Vin Diesel, Bradley Cooper"
+            }
+        ]
+    },
+
+    {
+        "id": 42,
+        "titulo": "Mulher-Hulk: Defensora de Heróis",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CE1A88A483AF2C297016CEAC4F1649236BB65BCB5CCD22E0E4B0A31381C26F24/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg",
+        "nota": 5.2,
+	    "detalhes": [
+            {
+                "sinopse":"Jennifer Walters — uma advogada especializada em casos envolvendo super-humanos — deve lidar com a complicada vida de uma mulher solteira de trinta e poucos anos que, por acaso, é uma hulk superpoderosa de 2 metros.",
+                "duracao": "37min",
+                "data":"2022",
+                "genero":"Ficção Científica, Comédia, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "classificacao temp.1":"12",
+                "criacao":"Jessica Gao",
+                "elenco":"Tatiana Maslany, Jameela Jamil, Josh Segarra, Ginger Gonzaga, Renee Elise Goldsberry, Tim Roth"
+            }
+        ],
+        "episodios": [
+            {
+                "ep1": [
+                    {
+                        "titulo":"Uma Quantidade Normal de Raiva",
+                        "nota": 6.5,
+                        "duracao": "38min",
+                        "sinopse": "O mundo de Jen Walters vira de cabeça para baixo após um acidente deixála com superpoderes.",
+                        "classificacao":"12"
+                    }
+                ],
+                "ep2": [
+                    {
+                        "titulo":"Diretor Super-Humano",
+                        "nota": 6.2,
+                        "duracao": "31min",
+                        "sinopse": "Jen é contratada por uma grande firma, mas deve atuar como Mulher-Hulk e com um cliente complicado.",
+                        "classificacao":"12"
+                    }
+                ],
+                "ep3": [
+                    {
+                        "titulo":"O Povo Contra Emil Blonsky",
+                        "nota": 5.6,
+                        "duracao": "35min",
+                        "sinopse": "A Mulher-Hulk represente Emil Blonsky, o Abominável, em sua conturbada audiência de condicional.",
+                        "classificacao":"12"
+                    }
+                ],
+                "ep4": [
+                    {
+                        "titulo":"Não é Magia de Verdade?",
+                        "nota": 6.0,
+                        "duracao": "37min",
+                        "sinopse": "Wong, o novo cliente da Mulher-Hulk, está processando um mágico pelo mau uso das artes mágicas.",
+                        "classificacao":"12"
+                    }
+                ],
+                "ep5": [
+                    {
+                        "titulo":"Malvadinha, Verdinha e de Calça Apertadinha",
+                        "nota": 5.3,
+                        "duracao": "31min",
+                        "sinopse": "A Mulher-Hulk descobre que Titânia é dona do nome 'Mulher-Hulk' e é processada por isso.",
+                        "classificacao":"12"
+                    }
+                ],
+                "ep6": [
+                    {
+                        "titulo":"Apenas Jen",
+                        "nota": 4.7,
+                        "duracao": "31min",
+                        "sinopse": "Jen é da,a de honra no casamento de uma amiga, um evento repleto de problemas para a Mulher-Hulk.",
+                        "classificacao":"12"
+                    }
+                ],
+                "ep7": [
+                    {
+                        "titulo":"O Retiro",
+                        "nota": 5.6,
+                        "duracao": "35min",
+                        "sinopse": "Jen visita o retiro de Blonsky, faz novos amigos e entra em contato com sua Mulher-Hulk interior.",
+                        "classificacao":"12"
+                    }
+                ],
+                "ep8": [
+                    {
+                        "titulo":"Coaxando e Saltando",
+                        "nota": 7.6,
+                        "duracao": "36min",
+                        "sinopse": "A Mulher-Hulk representa o Sapo, que foi ferido devido a mau funcionamento de seu supertraje.",
+                        "classificacao":"12"
+                    }
+                ],
+                "ep9": [
+                    {
+                        "titulo":"De Quem É Essa Série?",
+                        "nota": 5.6,
+                        "duracao": "35min",
+                        "sinopse": "Jen tem problemas com a lei e luta para juntar os pedaços de sua vida.",
+                        "classificacao":"12"
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "id": 45,
+        "titulo": "Lobisomen na Noite",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1A970B85BA08172D6B2225E57CAF73FC8D81DE8EC41E384B761321C70D88FF30/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/N9jyoeH3wKhiHYNYLE9Pnnls9D.jpg",
+        "nota": 7.2,
+	    "detalhes": [
+            {
+                "sinopse":"Em uma noite escura e sombria, uma cabala secreta de caçadores de monstros emerge das sombras e se reúne no templo de Bloodstone após a morte de seu líder. Em um estranho e macabro memorial à vida do líder, os participantes são lançados em uma misteriosa e mortal competição por uma poderosa relíquia - uma caçada que acabará por colocá-los cara a cara com um monstro perigoso.",
+                "duracao": "54min",
+                "data":"2022",
+                "genero":"Terror, Fantasia, Super-Heróis, Ação e Aventura",
+                "classificacao":"A14",
+                "direcao":"Michael Giacchino",
+                "roteiro": "Heather Quinn, Peter Cameron",
+                "elenco":"Gael García Bernal, Laura Donnelly, Harriet Sansom Harris, Kirk R. Thatcher, Eugenie Bondurant, Leonardo Nam"
+            }
+        ]
+    },
+
+    {
+        "id": 41,
+        "titulo": "Pantera Negra: Wakanda para Sempre",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1BDE1501CF1F07947DDCA3A92C2A67C24BEE20754EDB17C3671075DA978AFE7E/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/nZ69WTv7n01womaNz3SHa4inA9x.jpg",
+        "nota": 6.7,
+	    "detalhes": [
+            {
+                "sinopse":"A rainha Ramonda, Shuri, M'Baku, Okoye e as poderosas Dora Milaje lutam para proteger sua nação após a morte do rei T'Challa. Com a ajuda da Cão de Guerra Nakia e de Everett Ross, eles tentam encontrar um novo caminho para Wakanda.",
+                "duracao": "2h 43min",
+                "data":"2022",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Ryan Coogler",
+                "roteiro": "Ryan Coogler, Joe Robert Cole",
+                "elenco":"Letitia Wright, Lupita Nyong'o, Danai Gurira, Angela Bassett, Winston Duke, Tenoch Huerta"
+            }
+        ]
+    },
+
+    {
+        "id": 46,
+        "titulo": "Guardiões da Galáxia: Especial de Festas",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F35E3E28AB316FE6A36E0D23604BDBA468F886E39F861BBB4CBC54D5BF9EEAD9/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/c5v6VCc7bdxWDkKc5ilYsxhOeUp.jpg",
+        "nota": 6.9,
+	    "detalhes": [
+            {
+                "sinopse":"Com a missão de tornar o Natal inesquecível para Quill, os Guardiões vão à Terra em busca do presente perfeito.",
+                "duracao": "44min",
+                "data":"2022",
+                "genero":"Ficção Científica, Comédia, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"James Gunn",
+                "roteiro": "James Gunn",
+                "elenco":"Chris Pratt, Bradley Cooper, Vin Diesel, Dave Bautista, Karen Gillan, Pom Klementieff"
+            }
+        ]
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "id": 12,
+        "titulo": "Homem de Ferro 3",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7D3716137CBA37CB0BBF9589FFB802B15CD373610ED199391A6611461922D2C2/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/C7MZwRTjvEy7gkWcLJeBGZFE1w.jpg",
+        "nota": 7.1,
+	    "detalhes": [
+            {
+                "sinopse":"Depois de um inimigo reduzir o mundo de Tony Stark a destroços, o Homem de Ferro precisa aprender a confiar em seus instintos para proteger aqueles que ama, especialmente sua namorada, e lutar contra seu maior medo: o fracasso.",
+                "duracao": "2h 12min",
+                "trailer": "https://www.youtube.com/embed/YxJrGdJk_qI",
+                "data":"2013",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"A12",
+                "direcao":"Shane Black",
+                "roteiro": "Drew Pearce",
+                "elenco":"Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Guy Pearce, Rebecca Hall, Stephanie Szostak"
+            }
+        ]
+    },
+
+    {
+        "id": 11,
+        "titulo": "Thor: O Mundo Sombrio",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7374E18E73A60F81C71F30B01B1679C46956A7302DB98E3DEDD6EB9D92C569D4/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/oip30thvJBpJRveA13Rtd2am5Qg.jpg",
+        "nota": 6.8,
+	    "detalhes": [
+            {
+                "sinopse":"Thor precisa contar com a ajuda de seus companheiros e até de seu traiçoeiro irmão Loki em um plano audacioso para salvar o universo. Entretanto, os caminhos de Thor se cruzam com Jane Foster e, dessa vez, a vida dela está realmente em perigo.",
+                "duracao": "1h 55min",
+                "data":"2013",
+                "genero":"Ficção Científica, Fantasia, Super-Heróis, Ação e Aventura",
+                "classificacao":"10",
+                "direcao":"Alan Taylor",
+                "roteiro": "Stephen McFeely, Christopher L. Yost, Christopher Markus",
+                "elenco":"Chris Hemsworth, Natalie Portman, Tom Hiddleston, Stellan Skarsgard, Idris Elba, Christopher Eccleston"
+            }
+        ]
+    },
+
+    {
+        "id": 14,
+        "titulo": "Capitão América: Soldado Invernal",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4382CA203C280C1ACC82AB91EEFAAC94885AEC7405D97E59676B6C862A68F179/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/nGA8dCXXVPPRaEjcbEyweUhHCAY.jpg",
+        "nota": 7.8,
+	    "detalhes": [
+            {
+                "sinopse":"Após os eventos catastróficos em Nova York com Os Vingadores, Steve Rogers, segue tentando se ajustar ao mundo moderno. Porém, quando um colega da agência S.H.I.E.L.D. é atacado, Steve se vê preso em uma rede de intrigas que ameaça colocar o mundo em risco. Em parceria com a Viúva Negra e Falcão, seu novo aliado, o Capitão América tem que enfrentar um misterioso e inesperado inimigo, o Soldado Invernal.",
+                "duracao": "2h 18min",
+                "data":"2014",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Anthony Russo, Joe Russo",
+                "roteiro": "Anthony Russo, Stephen McFeely, Christopher Markus",
+                "elenco":"Chris Evans, Scarlett Johansson, Sebastian Stan, Anthony Mackie, Cobie Smulders, Frank Grilo"
+            }
+        ]
+    },
+
+    {
+        "id": 15,
+        "titulo": "Guardiões da Galáxia vol.1",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B48AD12C6A7A355A193D667F76B688662A9F9B07DDBADCA0ED775224B82E9B60/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/sUGYYLTtE4k5T1DBki033J6qAwY.jpg",
+        "nota": 8.0,
+	    "detalhes": [
+            {
+                "sinopse":"Abduzido da Terra quando ainda era criança, Peter Quill fez carreira como saqueador e se auto denominou 'Senhor das Estrelas'. Quando rouba uma esfera, na qual o poderoso vilão Ronan, da raça kree, está interessado, passa a ser procurado por vários caçadores de recompensas. Para escapar do perigo, Quill une forças com quatro personagens fora do sistema: Groot, uma árvore humanóide (Vin Diesel), a sombria e perigosa Gamora, o guaxinim rápido no gatilho Rocket Racoon e o vingativo Drax, o Destruidor. A esfera roubada é capaz de mudar o destino de todo o universo.",
+                "duracao": "2h 2min",
+                "data":"2014",
+                "genero":"Ficção Científica, Comédia, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"James Gunn",
+                "roteiro": "James Gunn, Nicole Perlman",
+                "elenco":"Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel, Bradley Cooper, Lee Pace"
+            }
+        ]
+    },
+
+    {
+        "id": 22,
+        "titulo": "Vingadores: Era de Ultron",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B1B0B37582BE3E4522F2D612B345FBB74C6CCD6BC77A7BA7D76D1E06EBEEEFFD/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/vGIIl89vglo66yUfbuTxzNAs4y5.jpg",
+        "nota": 7.3,
+	    "detalhes": [
+            {
+                "sinopse":"Ao tentar proteger o planeta de ameaças, Tony Stark constrói um sistema de inteligência artificial que cuidaria da paz mundial. O projeto acaba dando errado e gera o nascimento do Ultron. Com o destino da Terra em jogo, os Vingadores terão que se unir para mais uma vez salvar a raça humana da extinção.",
+                "duracao": "2h 24min",
+                "data":"2015",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Joss Whedon",
+                "roteiro": "Joss Whedon",
+                "elenco":"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson, Jeremy Renner"
+            }
+        ]
+    },
+
+    {
+        "id": 23,
+        "titulo": "Homem-Formiga",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7CD205AABF5D36ECD0E50406C42D072539E5814B3F6251C52BD1388322D6D138/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/yiLqv1gwBENjbqTAdPxW4LhX6aA.jpg",
+        "nota": 7.3,
+	    "detalhes": [
+            {
+                "sinopse":"Dr. Hank Pym (Michael Douglas), o inventor da fórmula/ traje que permite o encolhimento, anos depois da descoberta, precisa impedir que seu ex-pupilo Darren Cross (Corey Stoll), consiga replicar o feito e vender a tecnologia para uma organização do mal. Depois de sair da cadeia, o trambiqueiro Scott Lang (Paul Rudd) está disposto a reconquistar o respeito da ex-mulher, Maggie (Judy Greer) e, principalmente, da filha. Com dificuldades de arrumar um emprego honesto, ele aceita praticar um último golpe. O que ele não sabia era que tudo não passava de um plano do Dr. Pym que, depois de anos observando o hábil ladrão, o escolhe para vestir o traje do Homem-Formiga.",
+                "duracao": "2h",
+                "data":"2015",
+                "genero":"Ficção Científica, Comédia, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Peyton Reed",
+                "roteiro": "Edgar Wright, Joe Cornish, Paul Rudd, Adam McKay",
+                "elenco":"Paul Rudd, Evangeline Lilly, Corey Stoll, Bobby Cannavale, Michael Peña, Tip T.I. Harris"
+            }
+        ]
+    }
+]

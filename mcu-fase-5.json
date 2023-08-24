@@ -1,0 +1,41 @@
+[
+    {
+        "id": 47,
+        "titulo": "Homem-Formiga e a Vespa: Quantumania",
+        "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C99738D5EAAB656BDA2DD60C3B9B1F1318859CDA22E2FEE395B28DB50C937007/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "poster": "https://www.themoviedb.org/t/p/original/pDNT1gXhZEV1V70eCVmJAQNEqBl.jpg",
+        "nota": 6.1,
+        "detalhes": [
+            {
+                "sinopse":"Scott Lang e Hope van Dyne em suas jornadas como super-heróis. Scott e sua família são puxados para o Reino Quântico, onde eles precisarão enfrentar um novo e terrível vilão: Kang, o Conquistador e M.O.D.O.K..",
+                "duracao": "2h 6min",
+                "data":"2023",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"12",
+                "direcao":"Peyton Reed",
+                "roteiro": "Jeff Loveness",
+                "elenco":"Paul Rudd, Evangeline Lilly, Michael Douglas, Michelle Pfeiffer, Kathryn Newton, Jonathan Majors"
+            }
+        ]
+    },
+
+    {
+        "id": 51,
+        "titulo": "Guardiões da Galáxia vol.3",
+        "bg": "https://www.themoviedb.org/t/p/original/rVSsjepWbzfS2gIM6Cd5MTKVjUA.jpg",
+        "poster": "https://www.themoviedb.org/t/p/original/4yycSPnchdNAZirGkmCYQwTd3cr.jpg",
+        "nota": 8.0,
+	    "detalhes": [
+            {
+                "sinopse":"Peter Quill, que ainda está se recuperando da perda de Gamora, tem que reunir a sua equipe para defender o universo e proteger um dos seus. Uma missão que, se não for concluída com sucesso, pode levar ao fim dos Guardiões como os conhecemos.",
+                "duracao": "2h 30min",
+                "data":"2023",
+                "genero":"Ficção Científica, Super-Heróis, Ação e Aventura",
+                "classificacao":"14",
+                "direcao":"James Gunn",
+                "roteiro": "James Gunn",
+                "elenco":"Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel, Bradley Cooper, Pom Klementieff, Karen Gillan"
+            }
+        ]
+    }
+]
