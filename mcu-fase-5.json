@@ -37,5 +37,75 @@
                 "elenco":"Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel, Bradley Cooper, Pom Klementieff, Karen Gillan"
             }
         ]
+    },
+    
+    {
+        "id": 52,
+        "titulo": "Invasão Secreta",
+        "bg": "https://www.themoviedb.org/t/p/original/bgWWYcUIsnYWhHtSQyk3euwjBoL.jpg",
+        "p1": "https://www.themoviedb.org/t/p/original/2N892H3CirkrFC4vulZfMVSUbAZ.jpg",
+        "nota": 6.0,
+	    "detalhes": [
+            {
+                "sinopse":"Nick Fury descobre que uma facção de metamorfos Skrulls pretende invadir a Terra. Fury se junta a aliados incluindo Everett Ross, Maria Hill e o Skrull Talos, que estava vivendo na Terra. Juntos eles correm contra o tempo para impedir a invasão Skrull iminente e salvar a humanidade.",
+                "duracao": "44min",
+                "data":"2022",
+                "genero":"Ficção Científica, Fantasia, Drama, Ação e Aventura",
+                "classificacao":"14",
+                "classificacao temp.1":"14",
+                "ciracao":"Kyle Bradstreet",
+                "elenco":"Samuel L. Jackson, Ben Mendelsohn, Kingsley Ben-Adir, Emilia Clark, Olivia Colman, Don Cheadle"
+            }
+        ],
+        "episodios": [
+            {
+                "titulo":"Ressureição",
+                "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yyx0s1TRRjqT9pqFUVm70IBENQP.jpg",
+                "nota": 7.1,
+                "duracao": "55min",
+                "sinopse": "Nick Fury toma conhecimento de uma invasão clandestina da Terra por Skrulls.",
+                "classificacao":"14"
+            },
+            {
+                "titulo":"Promessas",
+                "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fgZdDp3PRksanaEhrAne3ufVO3X.jpg",
+                "nota": 7.2,
+                "duracao": "56min",
+                "sinopse": "Fury luta com o passado e o presente.",
+                "classificacao":"14"
+            },
+            {
+                "titulo":"Traído",
+                "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/1F3UCOXyAKGj0dRb338hhk7nABh.jpg",
+                "nota": 6.9,
+                "duracao": "42min",
+                "sinopse": "Fury descobre uma conspiração Skrull rebelde.",
+                "classificacao":"14"
+            },
+            {
+                "titulo":"Amado",
+                "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/pbQ9GEYrZ52Y4oV2RBiQPtSo6M3.jpg",
+                "nota": 7.3,
+                "duracao": "38min",
+                "sinopse": "Fury precisa fazer alguns sacrifícios custosos.",
+                "classificacao":"14"
+            },
+            {
+                "titulo":"Colheita",
+                "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/psEdUcyKqyFJA5QJkLDpsB5OaCI.jpg",
+                "nota": 6.8,
+                "duracao": "39min",
+                "sinopse": "Fury reúne seus aliados. Gravik lida com a inquietação.",
+                "classificacao":"14"
+            },
+            {
+                "titulo":"Lar",
+                "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3RJU5QMdfz6ufTocIcLOzN0wM9M.jpg",
+                "nota": 5.5,
+                "duracao": "38min",
+                "sinopse": "Toda a esperança para a humanidade se encontra nos ombros de Fury.",
+                "classificacao":"14"
+            }
+        ]
     }
 ]

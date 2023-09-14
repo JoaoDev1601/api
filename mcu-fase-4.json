@@ -23,7 +23,7 @@
         "id": 34,
         "titulo": "WandaVision",
         "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F82A4A1FCE56A73672F32B9AB7E130BFE756B50B29A0420C28E2C51997BB73E6/scale?width=1440&aspectRatio=1.78&format=jpeg",
-        "poster": "https://www.themoviedb.org/t/p/original/cm5xwxoWl2ZWuCKzwa0umHHsbmI.jpg",
+        "p1": "https://www.themoviedb.org/t/p/original/cm5xwxoWl2ZWuCKzwa0umHHsbmI.jpg",
         "nota": 7.9,
 	    "detalhes": [
             {
@@ -128,7 +128,7 @@
         "id": 35,
         "titulo": "Falcão e o Soldado Invernal",
         "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/78DD7450FE6C882326E93FADAF687CCAA8D64E2BB961E781338426461FA121AE/scale?width=1440&aspectRatio=1.78&format=jpeg",
-        "poster": "https://www.themoviedb.org/t/p/original/oF9njYCN6lBdrsi6wfulcxTggvn.jpg",
+        "p1": "https://www.themoviedb.org/t/p/original/oF9njYCN6lBdrsi6wfulcxTggvn.jpg",
         "nota": 7.1,
 	    "detalhes": [
             {
@@ -206,7 +206,7 @@
         "id": 32,
         "titulo": "Loki",
         "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/998A3834BB932A55D75F385B71EBAC16589A1D0E43898B0BBF0AB49B2CDEAC4F/scale?width=1440&aspectRatio=1.78&format=jpeg",
-        "poster": "https://www.themoviedb.org/t/p/original/ukR0MkCQE6IylzBPd61txJi1L3E.jpg",
+        "p1": "https://www.themoviedb.org/t/p/original/ukR0MkCQE6IylzBPd61txJi1L3E.jpg",
         "nota": 8.2,
 	    "detalhes": [
             {
@@ -304,7 +304,7 @@
         "id": 33,
         "titulo": "What if...?",
         "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0A9E8C0D4F71F4EAC200742A53389C28ECB11B8F45B56CFF92D6D125612229FE/scale?width=1440&aspectRatio=1.78&format=jpeg",
-        "poster": "https://www.themoviedb.org/t/p/original/e7n55C4027aRPHNmjE8XIk8nKvZ.jpg",
+        "p1": "https://www.themoviedb.org/t/p/original/e7n55C4027aRPHNmjE8XIk8nKvZ.jpg",
         "nota": 7.4,
 	    "detalhes": [
             {
@@ -448,7 +448,7 @@
         "id": 39,
         "titulo": "Gavião Arqueiro",
         "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/71F221AB1336FB316B0E5DCF595A8CD323FEAED9F3FD80D2F1A372E7A7794101/scale?width=1440&aspectRatio=1.78&format=jpeg",
-        "poster": "https://www.themoviedb.org/t/p/original/62qfVDg4VK3kqZFxrRztPqSbal4.jpg",
+        "p1": "https://www.themoviedb.org/t/p/original/62qfVDg4VK3kqZFxrRztPqSbal4.jpg",
         "nota": 7.5,
 	    "detalhes": [
             {
@@ -546,7 +546,7 @@
         "id": 40,
         "titulo": "Cavaleiro da Lua",
         "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5A01991D23E4E8A32D54B56A3921B31B2662805A1CC50ED9418997CDCD2D2E55/scale?width=1440&aspectRatio=1.78&format=jpeg",
-        "poster": "https://www.themoviedb.org/t/p/original/tkc7AVyUoG9VEeDvukN0TVqa24C.jpg",
+        "p1": "https://www.themoviedb.org/t/p/original/tkc7AVyUoG9VEeDvukN0TVqa24C.jpg",
         "nota": 7.3,
 	    "detalhes": [
             {
@@ -644,7 +644,7 @@
         "id": 43,
         "titulo": "Ms. Marvel",
         "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FA46176D33646CF1E9F235D90859DBB1DC8B09FDAFA21D8CB1B2C118267FE099/scale?width=1440&aspectRatio=1.78&format=jpeg",
-        "poster": "https://www.themoviedb.org/t/p/original/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
+        "p1": "https://www.themoviedb.org/t/p/original/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
         "nota": 6.2,
 	    "detalhes": [
             {
@@ -841,7 +841,7 @@
         "id": 42,
         "titulo": "Mulher-Hulk: Defensora de Heróis",
         "bg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CE1A88A483AF2C297016CEAC4F1649236BB65BCB5CCD22E0E4B0A31381C26F24/scale?width=1440&aspectRatio=1.78&format=jpeg",
-        "poster": "https://www.themoviedb.org/t/p/original/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg",
+        "p1": "https://www.themoviedb.org/t/p/original/4xNH5hHPpTJptSWANyAX3OLZoNM.jpg",
         "nota": 5.2,
 	    "detalhes": [
             {
