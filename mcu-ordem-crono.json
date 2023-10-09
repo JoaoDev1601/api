@@ -585,7 +585,7 @@
                 "elenco":"Tom Hiddleston, Owen Wilson, Sophia Di Martino"
             }
         ],
-        "episodios": [
+        "temp1": [
             {
                 "titulo":"Glorioso Propósito",
                 "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/gxh0k3aADsYkt9tgkfm2kGn2qQj.jpg",
@@ -652,6 +652,24 @@
                 "direcao": "Kate Herron",
                 "roteiro": "Eric Martin, Michael Waldron"
             }
+        ],
+        "temptitle": "Temp. 2 - Episódios",
+        "temp2": [
+            {
+                "titulo":"Ouroboros",
+                "episodio": "T02E01",
+                "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/d4S2xNIEb0DNUxi3L6p1SDxNiLR.jpg",
+                "ep": "",
+                "prox": "",
+                "nota": 8.6,
+                "duracao": "48min",
+                "sinopse": "Loki se encontra perdido no tempo e se desfaz, literalmente, entre passado, presente e futuro.",
+                "classificacao":"14",
+                "data": "05 de Outubro, 2023",
+                "genero":"Ficção Científica, Fantasia, Super-Heróis, Ação e Aventura",
+                "direcao": "Justin Benson, Aaron Moorhead",
+                "roteiro": "Eric Martin"
+            }
         ]
     },
     
@@ -672,7 +690,7 @@
                 "elenco":"Jeffrey Wright"
             }
         ],
-        "episodios": [
+        "temp1": [
             {
                 "titulo":"E se... a capitã Carter fosse a primeira vingadora?",
                 "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/iraDBIZNHvtK6GWCG2rHLGpPv2O.jpg",
@@ -793,7 +811,7 @@
                 "elenco":"Elizabeth Olsen, Paul Bettany, Teyonah Parris, Kathryn Hahn, Randall Park, Kat Dennings"
             }
         ],
-        "episodios": [
+        "temp1": [
             {
                 "titulo":"Gravado ao Vivo com Plateia",
                 "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/oNCzeCXFanVEWNpzRzyffhLLfZs.jpg",
@@ -914,7 +932,7 @@
                 "elenco":"Sebastian Stan, Anthony Mackie, Daniel Bruhl, Emily VanCamp, Wyatt Russel, Erin Kellyman"
             }
         ],
-        "episodios": [
+        "temp1": [
             {
                 "titulo":"Nova Ordem Mundial",
                 "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9c9EUdeFfkyfCsHK65gtXRACRcZ.jpg",
@@ -1107,7 +1125,7 @@
                 "elenco":"Jeremy Renner, Hailee Steinfield, Vera Farmiga, Fra Fee, Tony Dalton, Zahn McCLarnon"
             }
         ],
-        "episodios": [
+        "temp1": [
             {
                 "titulo":"Nunca Conheça seus Heróis",
                 "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/AwCNTaG7VPVwaBRSZkvQUMEfyuZ.jpg",
@@ -1195,7 +1213,7 @@
                 "elenco":"Oscar Isaac, May Calamawy, Khalid Abdalla, Ann Akinjirin, Antonia Salib, F. Murray Abrahams"
             }
         ],
-        "episodios": [
+        "temp1": [
             {
                 "titulo":"O Problema do Peixe Dourado",
                 "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/uA81REU7p7bniOQfplpbGIMWCe.jpg",
@@ -1304,7 +1322,7 @@
                 "elenco":"Tatiana Maslany, Jameela Jamil, Josh Segarra, Ginger Gonzaga, Renee Elise Goldsberry, Tim Roth"
             }
         ],
-        "episodios": [
+        "temp1": [
             {
                 "titulo":"Uma Quantidade Normal de Raiva",
                 "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/AhvWtFjxuJexnYM6lCYTNeFCKYZ.jpg",
@@ -1424,7 +1442,7 @@
                 "elenco":"Irman Vellani, Aramis Knight, Saagar Shaikh, Rish Shah, Zenobia Shroff, Mohan Kapur"
             }
         ],
-        "episodios": [
+        "temp1": [
             {
                 "titulo":"Geração 'Por quê?'",
                 "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/gaBBBVXwSED1XNHe2wyQypp6ead.jpg",
@@ -1617,7 +1635,7 @@
                 "elenco":"Samuel L. Jackson, Ben Mendelsohn, Kingsley Ben-Adir, Emilia Clark, Olivia Colman, Don Cheadle"
             }
         ],
-        "episodios": [
+        "temp1": [
             {
                 "titulo":"Ressureição",
                 "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yyx0s1TRRjqT9pqFUVm70IBENQP.jpg",
