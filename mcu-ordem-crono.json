@@ -690,7 +690,7 @@
                 "episodio": "T02E03",
                 "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/pwAniwa715V556WQSmoJiOvTchW.jpg",
                 "ep": "kudWv5uSQRnzpqrybdshoJ",
-                "prox": "Glorioso Propósito",
+                "prox": "Coração da AVT",
                 "nota": 8.0 ,
                 "duracao": "56min",
                 "sinopse": "Loki e Mobius saem em busca do relógio de desenho animado favorito de todos, enquanto tentam salvar a TVA.",
@@ -699,9 +699,25 @@
                 "genero":"Ficção Científica, Fantasia, Super-Heróis, Ação e Aventura",
                 "direcao": "Kasra Farahani",
                 "roteiro": ""
+            },
+            {
+                "titulo":"Coração da AVT",
+                "episodio": "T02E04",
+                "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/4vHnLqyYC4nPF7jgsEmAOVSVGfr.jpg",
+                "ep": "19ZQGRq5gquQNB8KaZZytG",
+                "prox": "Glorioso Propósito",
+                "nota": 8.9 ,
+                "duracao": "51min",
+                "sinopse": "O Tear da AVT está para se destruir, mas Loki e seu grupo têm uma variante d'Aquele que Permanece.",
+                "classificacao":"14",
+                "data": "26 de Outubro, 2023",
+                "genero":"Ficção Científica, Fantasia, Super-Heróis, Ação e Aventura",
+                "direcao": "Justin Benston, Aaron Moorhead",
+                "roteiro": "Eric Martin, Katharyn Blair"
             }
         ]
     },
+    
     
     {
         "id": 33,
