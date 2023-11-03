@@ -1,0 +1,274 @@
+[
+    {
+        "id": 53,
+        "titulo": "Homem-Aranha",
+        "bg": "https://www.themoviedb.org/t/p/original/qK2lwJ8DO8yL76upmigEv3eWdBg.jpg",
+        "poster": "https://www.themoviedb.org/t/p/original/2WIwz0qJpnVAiofTAhrmhbKxuvE.jpg",
+        "nota": 7.4,
+        "filme": "64DqicVgST1okdALnkgRd6",
+        "detalhes": [
+            {
+                "sinopse":"Peter Parker é um jovem estudioso que vive com seus tios, Ben e May, desde que seus pais faleceram. Peter tem dificuldade em se relacionar com seus colegas, por ser tímido e por eles o considerarem um nerd. Até que, em uma demonstração científica, um acidente inesperado faz com que uma aranha modificada geneticamente pique Peter. A partir de então seu corpo é quimicamente alterado pela picada da aranha.",
+                "duracao": "2h 1min",
+                "data":"2002",
+                "genero":"Fantasia, ação",
+                "classificacao":"L",
+                "direcao":"Sam Raimi",
+                "roteiro": "David Koepp",
+                "elenco":"Tobey Maguire, Willem Dafoe, Kirsten Dunst, James Franco, J.K Simmons"
+            }
+        ]
+    },
+
+    {
+        "id": 54,
+        "titulo": "Homem-Aranha 2",
+        "bg": "https://www.themoviedb.org/t/p/original/pXzAbaFV8iNtflap5MqSyXcV8Qx.jpg",
+        "poster": "https://www.themoviedb.org/t/p/original/y06FivvCfqapHB3iETOtbAqWdkD.jpg",
+        "nota": 7.5,
+        "filme": "MyLq4XHt5FpapbiroHnR5w",
+        "detalhes": [
+            {
+                "sinopse":"Dois anos se passaram desde que o tranquilo Peter Parker separou-se do grande amor de sua vida, Mary Jane Watson, e decidiu assumir o compromisso e a responsabilidade de seguir sendo o Homem-Aranha. Peter enfrenta novos desafios enquanto aprende a lidar com 'seu dom e sua maldição', tentando desesperadamente harmonizar suas duas identidades: A do super-herói aracnídeo, o Homem-Aranha, e a do estudante universitário.",
+                "duracao": "2h 7min",
+                "data":"2004",
+                "genero":"Ação, Aventura, Fantasia",
+                "classificacao":"L",
+                "direcao":"Sam Raimi",
+                "roteiro": "Alvin Sargent",
+                "elenco":"Tobey Maguire, Kirsten Dunst, James Franco, Alfred Molina, J.K Simmons"
+            }
+        ]
+    },
+
+    {
+        "id": 55,
+        "titulo": "Homem-Aranha 3",
+        "bg": "https://www.themoviedb.org/t/p/original/eSGBbCOX7KM3Rf8HHwK8tglklyS.jpg",
+        "poster": "https://www.themoviedb.org/t/p/original/63O5iixxXSmyOaBas7ek1tkeVra.jpg",
+        "nota": 6.3,
+        "filme": "FWR7j45thCsogspMYCawxL",
+        "detalhes": [
+            {
+                "sinopse":"O relacionamento entre Peter Parker e Mary Jane parece estar dando certo, mas outros problemas começam a surgir. A roupa de Homem-Aranha torna-se preta e acaba controlando Peter, que apesar de aumentar seus poderes, revela o lado obscuro de sua personalidade. Os vilões Venon e Homem-Areia tentam destruir o super-herói.",
+                "duracao": "2h 19min",
+                "data":"2007",
+                "genero":"Ação, Aventura, Fantasia",
+                "classificacao":"12",
+                "direcao":"Sam Raimi",
+                "roteiro": "Ivan Raimi, Alvin Sargent",
+                "elenco":"Tobey Maguire, Kirsten Dunst, James Franco, Thomas Haden Church, Topher Grace, J.K Simmons"
+            }
+        ]
+    },
+
+    {
+        "id": 56,
+        "titulo": "O Espetacular Homem-Aranha",
+        "bg": "https://www.themoviedb.org/t/p/original/ysZsHNE8AxgfvrpidICaDTRGTwe.jpg",
+        "poster": "https://www.themoviedb.org/t/p/original/gxSsFBCFuDhVQMCuIDoZcmHOqlY.jpg",
+        "nota": 6.9,
+        "filme": "Cp4CzYWKkFbGS7thdh9Lfw",
+        "detalhes": [
+            {
+                "sinopse":"Peter Parker está tentando saber mais sobre sua origem. Ele encontra uma pasta que pertenceu ao seu pai e quer descobrir por que seus pais desapareceram. Sua busca o leva a Oscorp e ao dr. Curt Connors, que tem como alterego o letal Lagarto.",
+                "duracao": "2h 16min",
+                "data":"2012",
+                "genero":"Ação, Aventura, Fantasia",
+                "classificacao":"10",
+                "direcao":"Marc Webb",
+                "roteiro": "James Vanderbilt, Alvin Sargent, Steve Kloves",
+                "elenco":"Andrew Garfield, Emma Stone, Rhys Ifans, Sally Field, Martin Sheen"
+            }
+        ]
+    },
+
+    {
+        "id": 57,
+        "titulo": "O Espetacular Homem-Aranha 2: A Ameaça de Electro",
+        "bg": "https://www.themoviedb.org/t/p/original/ffLsExm6Po3DXmZspA70OgHLJu.jpg",
+        "poster": "https://www.themoviedb.org/t/p/original/qJifnqFgtflsPZ46OGvX3kFsq8h.jpg",
+        "nota": 6.6,
+        "filme": "WL8WBtPRt7gDJZrGaqLYPK",
+        "detalhes": [
+            {
+                "sinopse":"O jovem Peter Parker está fascinado com as habilidades que adquiriu como Homem-Aranha. Agora, ele precisa lidar com dois problemas: o retorno de um velho amigo, Harry Osborn, e a chegada de um vilão mais forte e poderoso, Electro.",
+                "duracao": "2h 21min",
+                "data":"2014",
+                "genero":"Ação, Aventura, Fantasia"	,
+                "classificacao":"12",
+                "direcao":"Marc Webb",
+                "roteiro": "Roberto Orci, Jeff Pinkner, Alex Kurtzman",
+                "elenco":"Andrew Garfield, Emma Stone, Jamie Foxx, Dane DeHaan, Sally Field"
+            }
+        ]
+    },
+
+    {
+        "id": 48,
+        "titulo": "Homem-Aranha: De Volta ao Lar",
+        "bg": "https://www.themoviedb.org/t/p/original/tPpYGm2mVecue7Bk3gNVoSPA5qn.jpg",
+        "poster": "https://www.themoviedb.org/t/p/original/9Fgs1ewIZiBBTto1XDHeBN0D8ug.jpg",
+        "nota": 7.4,
+        "filme": "FddpYFiKY7BQXPcjqDKoPm",
+	    "detalhes": [
+            {
+                "sinopse":"Depois de atuar ao lado dos Vingadores, chegou a hora do pequeno Peter Parker (Tom Holland) voltar para casa e para a sua vida, já não mais tão normal. Lutando diariamente contra pequenos crimes nas redondezas, ele pensa ter encontrado a missão de sua vida quando o terrível vilão Abutre (Michael Keaton) surge amedrontando a cidade. O problema é que a tarefa não será tão fácil como ele imaginava.",
+                "duracao": "2h 13min",
+                "data":"2017",
+                "genero":"Super-Heróis, Ação e Aventura, Ficção Científica, Drama",
+                "classificacao":"12",
+                "direcao":"Jon Watts",
+                "roteiro": "Jon Watts, John Francis Daley, Christopher Ford, Jonathan Goldstein, Chris McKenna, Erik Sommers",
+                "elenco":"Tom Holland, Michael Keaton, Robert Downey Jr., Marissa Tomei, Zendaya, Jacob Batalon"
+            }
+        ]
+    },
+
+    {
+        "id": 58,
+        "titulo": "Homem-Aranha: No Aranhaverso",
+        "bg": "https://www.themoviedb.org/t/p/original/e7CE5vx4KqUuz0peKdHRVZB0Pn8.jpg",
+        "poster": "https://www.themoviedb.org/t/p/original/ybQSBSrINtjWsJQ6Ih8sva8HlEZ.jpg",
+        "nota": 8.4,
+        "filme": "T3GkFFUENGUMys7MKNYvqZ",
+        "detalhes": [
+            {
+                "sinopse":"Miles Morales é um jovem negro do Brooklyn que se tornou o Homem-Aranha inspirado no legado de Peter Parker, já falecido. Entretanto, ao visitar o túmulo de seu ídolo em uma noite chuvosa, ele é surpreendido com a presença do próprio Peter, vestindo o traje do herói aracnídeo sob um sobretudo. A surpresa fica ainda maior quando Miles descobre que ele veio de uma dimensão paralela, assim como outras variações do Homem-Aranha.",
+                "duracao": "1h 57min",
+                "data":"2018",
+                "genero":"Ação, Aventura, Animação, Ficção Científica",
+                "classificacao":"10",
+                "direcao":"Rodney Rothman, Peter Ramsey, Bob Persichetti",
+                "roteiro": "Rodney Rothman, Phil Lord",
+                "elenco":"Cadu Paschoal, Fernando Lopes, Luiza Cesar, Ronaldo Júlio, Sheila Dorfman"
+            }
+        ]
+    },
+
+    {
+        "id": 59,
+        "titulo": "Venom",
+        "bg": "https://www.themoviedb.org/t/p/original/bljSMCAvY9qBNw5VQfV20LGtTAL.jpg",
+        "poster": "https://www.themoviedb.org/t/p/original/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "nota": 6.6,
+        "filme": "C5SmuuubQTPRzHDEcAb7py",
+        "detalhes": [
+            {
+                "sinopse":"O jornalista Eddie Brock desenvolve força e poder sobre-humanos quando seu corpo se funde com o alienígena Venom. Dominado pela raiva, Venom tenta controlar as novas e perigosas habilidades de Eddie.",
+                "duracao": "1h 52min",
+                "data":"2018",
+                "genero":"Ação, Ficção Científica",
+                "classificacao":"14",
+                "direcao":"Ruben Fleischer",
+                "roteiro": "Scott Rosenberg, Jeff Pinker, Kelly Marcel",
+                "elenco":"Tom Hardy, Michelle Williams, Riz Ahmed, Jenny Slate"
+            }
+        ]
+    },
+
+    {
+        "id": 49,
+        "titulo": "Homem-Aranha: Longe de Casa",
+        "bg": "https://www.themoviedb.org/t/p/original/q8HcItKnJYBQa2XrB4Ug6Q8BeNe.jpg",
+        "poster": "https://www.themoviedb.org/t/p/original/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg",
+        "nota": 7.4,
+        "filme": "UtvK5AGr12QxpHFdcfGsKK",
+	    "detalhes": [
+            {
+                "sinopse":"Peter Parker está em uma viagem de duas semanas pela Europa, ao lado de seus amigos de colégio, quando é surpreendido pela visita de Nick Fury. Convocado para mais uma missão heroica, ele precisa enfrentar vários vilões que surgem em cidades-símbolo do continente, como Londres, Paris e Veneza, e também a aparição do enigmático Mysterio.",
+                "duracao": "2h 10min",
+                "data":"2019",
+                "genero":"Super-Heróis, Ação e Aventura, Ficção Científica",
+                "classificacao":"10",
+                "direcao":"Jon Watts",
+                "roteiro": "Erik Sommers, Chris Mckenna",
+                "elenco":"Tom Holland, Samuel L. Jackson, Jake Gyllenhall, Marissa Tomei, Jon Favreau, Zendaya, Jacob Batalon"
+            }
+        ]
+    },
+
+    {
+        "id": 60,
+        "titulo": "Venom: Tempo de Carnificina",
+        "bg": "https://www.themoviedb.org/t/p/original/egtTDWH06ylPjwztRgZb2htr5DP.jpg",
+        "poster": "https://www.themoviedb.org/t/p/original/h5UzYZquMwO9FVn15R2eK2itmHu.jpg",
+        "nota": 5.9,
+        "filme": "QtfBx7ESU6gXwUJBfZDK3h",
+        "detalhes": [
+            {
+                "sinopse":"Em busca de seu próximo furo de reportagem, o jornalista Eddie Brock consegue uma entrevista exclusiva com Cletus Kasady, um assassino no corredor da morte, que descobre o segredo de Eddie e se torna o hospedeiro de Carnificina, um simbionte aterrorizante e ameaçador. Eddie e Venom precisam superar sua relação atribulada e trabalhar em conjunto para derrotar Carnificina.",
+                "duracao": "1h 37min",
+                "data":"2021",
+                "genero":"Ação, Aventura, Ficção Científica",
+                "classificacao":"14",
+                "direcao":"Andy Serkis",
+                "roteiro": "Kelly Marcel",
+                "elenco":"Tom Hardy, Woody Harrelson, Michelle Williams, Naomie Harris"
+            }
+        ]
+    },
+
+    {
+        "id": 50,
+        "titulo": "Homem-Aranha: Sem Volta para Casa",
+        "bg": "https://www.themoviedb.org/t/p/original/zD5v1E4joAzFvmAEytt7fM3ivyT.jpg",
+        "poster": "https://www.themoviedb.org/t/p/original/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg",
+        "nota": 8.2,
+        "filme": "hjTPEqfAvsuaYCUF7FcaRL",
+	    "detalhes": [
+            {
+                "sinopse":"Peter Parker é desmascarado e não consegue mais separar sua vida normal dos grandes riscos de ser um super-herói. Quando ele pede ajuda ao Doutor Estranho, os riscos se tornam ainda mais perigosos, e o forçam a descobrir o que realmente significa ser o Homem-Aranha...",
+                "duracao": "2h 29min",
+                "data":"2021",
+                "genero":"Super-Heróis, Ação e Aventura, Ficção Científica",
+                "classificacao":"12",
+                "direcao":"Jon Watts",
+                "roteiro": "Erik Sommers, Chris Mckenna",
+                "elenco":"Tom Holland, Zendaya, Jacob Batalon, Benedict Cumberbatch, Marissa Tomei, Jon Favreau, Tobey Maguire, Andrew Garfield"
+            }
+        ]
+    },
+
+    {
+        "id": 61,
+        "titulo": "Morbius",
+        "bg": "https://www.themoviedb.org/t/p/original/egm37VwEeLwiOCxLVD3bK8Ds2D5.jpg",
+        "poster": "https://www.themoviedb.org/t/p/original/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg",
+        "nota": 5.2,
+        "filme": "PPeucDazJ6sGWJBfN1aa5g",
+        "detalhes": [
+            {
+                "sinopse":"Gravemente doente com um raro distúrbio sanguíneo e determinado a salvar outros sofrendo o mesmo destino, o Dr. Morbius tenta uma aposta desesperada. O que primeiramente parece ser um sucesso radical, libera uma escuridão dentro dele e transforma esse médico em um caçador.",
+                "duracao": "1h 45min",
+                "data":"2022",
+                "genero":"Ação, Fantasia, Ficção Científica",
+                "classificacao":"14",
+                "direcao":"Daniel Espinosa",
+                "roteiro": "Burk Sharpless, Matt Sazama",
+                "elenco":"Jared Leto, Matt Smith, Adria Arjona, Tyrese Gibson"
+            }
+        ]
+    },
+
+    {
+        "id": 62,
+        "titulo": "Homem-Aranha: Através do Aranhaverso",
+        "bg": "https://www.themoviedb.org/t/p/original/iBpWPfY2eKgCbtLxF4HyCLbfaoX.jpg",
+        "poster": "https://www.themoviedb.org/t/p/original/fBS6y0LYX4kU6pPSBYMdQy6SIHX.jpg",
+        "nota": 8.7,
+        "filme": "1WVGodxWK1hHtCtcoVphQN",
+        "detalhes": [
+            {
+                "sinopse":"Miles Morales retorna para o próximo capítulo da saga do Aranhaverso, uma aventura épica que transportará o Homem-Aranha em tempo integral e amigável do bairro do Brooklyn através do Multiverso para unir forças com Gwen Stacy e uma nova equipe de Homens-Aranha para enfrentar com um vilão mais poderoso do que qualquer coisa que eles já",
+                "duracao": "2h 20min",
+                "data":"2023",
+                "genero":"Ação, Aventura, Animação, Ficção Científica",
+                "classificacao":"10",
+                "direcao":"Justin K. Thompson, Joaquim dos Santosm Kemp Powers",
+                "roteiro": "Dave Callaham, Phil Lord, Chistopher Miller",
+                "elenco":"Cadu Paschoal, Luiza Cesar, Philippe Maia, Yan Gesteira, Fernando Lopes"
+            }
+        ]
+    }
+]
