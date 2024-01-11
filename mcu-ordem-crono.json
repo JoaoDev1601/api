@@ -1517,6 +1517,83 @@
             }
         ]
     },
+
+    {
+        "id": 63,
+        "titulo": "Eco",
+        "bg": "https://www.themoviedb.org/t/p/original/2THOv93586ySlWp5TmQmySYm7mV.jpg",
+        "p1": "https://www.themoviedb.org/t/p/original/1rIPEimEdDsr53XFPaGA7b0vlp7.jpg",
+        "nota": 6.5,
+	    "detalhes": [
+            {
+                "sinopse":"Perseguida pelo criminoso Fisk, Maya volta para casa, onde confrontará sua família e seu legado.",
+                "duracao": "42min",
+                "data":"2024",
+                "genero":"Drama, Crime, Ação e Aventura",
+                "classificacao":"TV-MA",
+                "classificacao temp.1":"TV-MA",
+                "criacao":"Sydney Freeland",
+                "elenco":"Alaqua Cox, Devery Jacobs, Chaske Spencer, Vincent D'Onofrio"
+            }
+        ],
+        "temp1": [
+            {
+                "titulo":"Chafa",
+                "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/9kOfCl1W78enM9dPl7daYx5BWWd.jpg",
+                "nota": 7.5,
+                "duracao": "51min",
+                "sinopse": "Após a trágica morte da mãe, a jovem Maya é forçada a deixar a sua cidade natal, Tamaha, Oklahoma, e a mudar-se para Nova Iorque, onde conhece Wilson Fisk, conhecido como Rei do Crime, que a cria para ser uma assassina implacável. Depois de saber que Fisk mandou matar o seu pai, Maya dispara contra o Rei do Crime e foge de Nova Iorque.",
+                "classificacao":"TV-MA",
+                "data": "09 de Janeiro, 2024",
+                "direcao": "Sydney Freeland",
+                "roteiro": "Marion Dayre, Ken Kristensen, Steven Judd, Josh Feldman"
+            },
+            {
+                "titulo":"Lowak",
+                "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/j33mLOqagobNEl3pe1OPvwuwV76.jpg",
+                "nota": 7.0,
+                "duracao": "41min",
+                "sinopse": "Maya pede a ajuda da sua família, que a desaprova, para acabar com o exército de Fisk. Entretanto, ela começa a ter estranhas visões.",
+                "classificacao":"TV-MA",
+                "data": "09 de Janeiro, 2024",
+                "direcao": "Sydney Freeland",
+                "roteiro": ""
+            },
+            {
+                "titulo":"Tuklo",
+                "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/7Vhmfgbbvb4B9Op6G219phQ9l71.jpg",
+                "nota": 7.4,
+                "duracao": "44min",
+                "sinopse": "Maya aprende o significado de danos colaterais quando o exército implacável de Fisk chega a Tamaha, Oklahoma.",
+                "classificacao":"TV-MA",
+                "data": "09 de Janeiro, 2024",
+                "direcao": "Catriona McKenzie",
+                "roteiro": ""
+            },
+            {
+                "titulo":"Taloa",
+                "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/jdj8YQPlEeOcWKsLiKsLsFPrbk8.jpg",
+                "nota": 7.3,
+                "duracao": "40min",
+                "sinopse": "Maya encontra-se numa encruzilhada, enfrentando as sombras do seu passado e contemplando o seu futuro.",
+                "classificacao":"TV-MA",
+                "data": "09 de Janeiro, 2024",
+                "direcao": "Sydney Freeland",
+                "roteiro": "Ken Kristensen, Chantelle M. Wells, Josh Feldman"
+            },
+            {
+                "titulo":"Maya",
+                "poster": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/45VvSf6PVxvLeVaJM2fwbW4yfAb.jpg",
+                "nota": 6.5,
+                "duracao": "37min",
+                "sinopse": "A vida da família de Maya entra em jogo quando o exército de Fisk invade o powwow da nação Choctaw.",
+                "classificacao":"TV-MA",
+                "data": "09 de Janeiro, 2024",
+                "direcao": "Sydney Freeland",
+                "roteiro": "Steven Judd, Ellen Morton, Chantelle M. Wells, Amy Rardin"
+            }
+        ]
+    },
     
     {
         "id": 42,
@@ -1918,5 +1995,4 @@
             }
         ]
     }
-    
 ]
